@@ -206,13 +206,12 @@ MAX(Purchases) as "Largest Customer Purchases",
 MIN(Purchases) as "Minimun Customer Purchases",
 ROUND(AVG(Purchases),2) as "Average Customer Purchases" 
 FROM (
- SELECT
- ROUND(SUM(LINE_UNITS * LINE_PRICE),2) AS Purchases,
- COUNT(DISTINCT INVOICE.INV_NUMBER) AS Invoices
- FROM INVOICE JOIN LINE
- WHERE INVOICE.INV_NUMBER = LINE.INV_NUMBER
- GROUP BY INVOICE.CUS_CODE
- ORDER BY INVOICE.CUS_CODE 
+	 SELECT
+	 ROUND(SUM(LINE_UNITS * LINE_PRICE),2) AS Purchases,
+	 COUNT(DISTINCT INVOICE.INV_NUMBER) AS Invoices
+	 FROM INVOICE JOIN LINE
+	 WHERE INVOICE.INV_NUMBER = LINE.INV_NUMBER
+	 GROUP BY INVOICE.CUS_CODE
 ) AS CUSTOMERSALES; 
  
  /* 
@@ -230,8 +229,37 @@ that is, for the customers who appear in the INVOICE table, sorted by customer c
  /* 
 21. 
  */
+ SELECT 
+ MIN(CUS_BALANCE) AS "Minimum Balance",
+ MAX(CUS_BALANCE) AS "Maxmimum Balance",
+ ROUND(AVG(CUS_BALANCE),2) AS "Average Balance"
+ FROM (
+	 SELECT
+	 INVOICE.CUS_CODE, CUSTOMER.CUS_BALANCE
+	 FROM INVOICE JOIN CUSTOMER 
+	 WHERE INVOICE.CUS_CODE = CUSTOMER.CUS_CODE
+	 GROUP BY INVOICE.CUS_CODE
+) AS CUSTOMERBALANCES;
  
  
  /* 
-22. 
+22. Create a query to find the balance characteristics for all customers, 
+including the total of the outstanding balances. 
  */
+ SELECT 
+ SUM(CUS_BALANCE) AS "Total Balance",
+ MIN(CUS_BALANCE) AS "Minimum Balance",
+ MAX(CUS_BALANCE) AS "Maximum Balance",
+ ROUND(AVG(CUS_BALANCE),2) AS "Average Balance"
+ FROM CUSTOMER;
+ 
+/* 
+23.Find the listing of customers who 
+did not make purchases during the invoicing period. 
+Sort the results by customer code.  
+ */
+SELECT CUSTOMER.CUS_CODE, CUS_BALANCE
+FROM INVOICE RIGHT OUTER JOIN CUSTOMER
+ON CUSTOMER.CUS_CODE = INVOICE.CUS_CODE
+WHERE INV_NUMBER IS NULL
+ORDER BY CUSTOMER.CUS_CODE;
