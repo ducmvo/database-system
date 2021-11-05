@@ -1,4 +1,4 @@
-USE ConstructCo;
+USE ContructCo;
 
 /* 1 */
 SELECT EMP_NUM, EMP_LNAME, EMP_FNAME, EMP_INITIAL
@@ -263,3 +263,183 @@ FROM INVOICE RIGHT OUTER JOIN CUSTOMER
 ON CUSTOMER.CUS_CODE = INVOICE.CUS_CODE
 WHERE INV_NUMBER IS NULL
 ORDER BY CUSTOMER.CUS_CODE;
+
+
+/* 
+24. Create a query that summarizes the value of products currently in inventory. 
+Note that the value of each product is a result of multiplying the units 
+currently in inventory by the unit price. 
+Sort the results in descending order by subtotal, 
+ */
+SELECT P_DESCRIPT, P_QOH, P_PRICE, 
+(P_QOH * P_PRICE) AS Subtotal
+FROM PRODUCT
+ORDER BY Subtotal DESC;
+
+/* 
+25.
+ */
+SELECT SUM(P_QOH * P_PRICE) AS "Total Value Inventory"
+FROM PRODUCT;
+
+
+USE LargeCo;
+-- 27. Write a query to display the eight departments in the LGDEPARTMENT table sorted by department name.
+SELECT * FROM LGDEPARTMENT ORDER BY DEPT_NAME;
+
+-- 28. Write a query to display the SKU (stock keeping unit), description, type, base, cat- egory, 
+-- and price for all products that have a PROD_BASE of Water and a PROD_CATEGORY of Sealer
+SELECT PROD_SKU, PROD_DESCRIPT,PROD_TYPE,PROD_BASE, PROD_CATEGORY,PROD_PRICE FROM LGPRODUCT
+WHERE PROD_BASE="Water" AND PROD_CATEGORY = "Sealer"; 
+
+/* 29. Write a query to display the first name, last name, and email address of employees 
+hired from January 1, 2005, to December 31, 2014. 
+Sort the output by last name and then by first name */
+SELECT EMP_FNAME, EMP_LNAME, EMP_EMAIL FROM LGEMPLOYEE
+WHERE EMP_HIREDATE BETWEEN "2005-1-1" AND "2014-12-31"
+ORDER BY EMP_LNAME, EMP_FNAME;
+
+/* 
+30. Writeaquerytodisplaythe firstname,lastname,phonenumber,title,and department number of employees 
+who work in department 300 or have the title “CLERK I.” 
+Sort the output by last name and then by first name
+*/
+SELECT EMP_FNAME, EMP_LNAME, EMP_PHONE, EMP_TITLE, DEPT_NUM
+FROM LGEMPLOYEE 
+WHERE DEPT_NUM = 300 OR EMP_TITLE = "CLERK I"
+ORDER BY EMP_LNAME, EMP_FNAME;
+-- JOIN LGDEPARTMENT
+-- WHERE LGEMPLOYEE.EMP_NUM = LGDEPARTMENT.EMP_NUM
+
+/* 
+31. Write a query to display the employee number, lastname, firstname,
+salary“from” date, salary end date, and salary amount 
+for employees 83731, 83745, and 84039. 
+Sort the output by employee number and salary “from” date
+*/
+SELECT LGEMPLOYEE.EMP_NUM, EMP_LNAME, EMP_FNAME, SAL_FROM, SAL_END, SAL_AMOUNT
+FROM LGEMPLOYEE JOIN LGSALARY_HISTORY
+ON LGEMPLOYEE.EMP_NUM = LGSALARY_HISTORY.EMP_NUM
+WHERE LGEMPLOYEE.EMP_NUM = 83731 OR LGEMPLOYEE.EMP_NUM = 83745
+OR LGEMPLOYEE.EMP_NUM = 84039
+ORDER BY LGEMPLOYEE.EMP_NUM, SAL_FROM;
+
+/* 
+32.Writeaquerytodisplaythe
+firstname,lastname,street,city,state,and zipcode
+of any customer who purchased a Foresters Best brand top coat 
+between July 15, 2015, and July 31, 2015. 
+If a customer purchased more than one such product, 
+display the customer’s information only once in the output. 
+Sort the output by state, last name, and then first name (Figure P7.32).
+*/
+SELECT CUST_FNAME, CUST_LNAME, CUST_STREET, CUST_CITY, CUST_STATE, CUST_ZIP
+FROM LGCUSTOMER 
+JOIN LGINVOICE JOIN LGLINE JOIN LGPRODUCT
+ON LGCUSTOMER.CUST_CODE = LGINVOICE.CUST_CODE
+AND LGINVOICE.INV_NUM = LGLINE.INV_NUM
+AND LGLINE.PROD_SKU = LGPRODUCT.PROD_SKU
+WHERE PROD_CATEGORY = "Top Coat"
+AND INV_DATE BETWEEN '2017-07-15' AND '2017-07-31'
+GROUP BY LGCUSTOMER.CUST_CODE
+ORDER BY CUST_STATE, CUST_FNAME, CUST_LNAME;
+
+
+ /* 
+33. Write a query to display the employee number, last name, email address, title, 
+and department name of each employee 
+whose job title ends in the word “ASSOCIATE.”
+ Sort the output by department name and employee title
+*/
+
+SELECT LGEMPLOYEE.EMP_NUM, EMP_LNAME, EMP_EMAIL, EMP_TITLE, DEPT_NAME
+FROM LGEMPLOYEE JOIN LGDEPARTMENT
+ON LGEMPLOYEE.DEPT_NUM = LGDEPARTMENT.DEPT_NUM
+WHERE EMP_TITLE LIKE "%ASSOCIATE"
+ORDER BY DEPT_NAME, EMP_TITLE;
+
+/*
+34. Write a query to display a brand name and 
+the number of products of that brand that are in the database. 
+Sort the output by the brand name
+*/
+SELECT BRAND_NAME, COUNT(PROD_SKU) AS NUMPRODUCTS
+FROM LGPRODUCT JOIN LGBRAND
+ON LGPRODUCT.BRAND_ID = LGBRAND.BRAND_ID
+GROUP BY LGBRAND.BRAND_ID
+ORDER BY LGBRAND.BRAND_NAME;
+
+/*
+35.
+Writeaquerytodisplaythe
+number of products in each category
+that havea water base, 
+sorted by category.
+*/
+SELECT PROD_CATEGORY, COUNT(PROD_SKU) AS NUMPRODUCTS
+FROM LGPRODUCT
+WHERE PROD_BASE = "Water"
+GROUP BY PROD_CATEGORY 
+ORDER BY PROD_CATEGORY;
+
+
+/* 
+35. Writea query to display the
+number of products
+within each base and type combination, 
+sorted by base and then by type
+*/
+SELECT PROD_BASE, PROD_TYPE, COUNT(PROD_SKU) AS NUMPRODUCTS
+FROM LGPRODUCT
+GROUP BY PROD_BASE, PROD_TYPE
+ORDER BY PROD_BASE, PROD_TYPE;
+
+
+/*
+37. Write a query to display the 
+total inventory that is, 
+the sum of all products on hand for each brand ID. 
+Sort the output by brand ID in descending order 
+*/
+SELECT LGBRAND.BRAND_ID, SUM(PROD_QOH) AS TOTALINVENTORY
+FROM LGPRODUCT JOIN LGBRAND
+ON LGPRODUCT.BRAND_ID = LGBRAND.BRAND_ID
+GROUP BY LGBRAND.BRAND_ID
+ORDER BY LGBRAND.BRAND_ID DESC;
+
+/* 
+38. Write a query to display the 
+brand ID, brand name, and average price of products of each brand. 
+Sort the output by brand name. 
+Results are shown with the average price rounded to two decimal places (Figure P7.38).
+*/
+SELECT LGBRAND.BRAND_ID, LGBRAND.BRAND_NAME, 
+ROUND(AVG(PROD_PRICE),2) AS AVGPRICE
+FROM LGPRODUCT JOIN LGBRAND
+ON LGPRODUCT.BRAND_ID = LGBRAND.BRAND_ID
+GROUP BY LGBRAND.BRAND_ID
+ORDER BY LGBRAND.BRAND_NAME;
+
+/*
+39. Write a query to display the department number and most recent employee hire date for each department. 
+Sort the output by department number (Figure P7.39).
+*/
+SELECT DEPT_NUM, MAX(EMP_HIREDATE) AS MOSTRECENT
+FROM LGEMPLOYEE
+GROUP BY DEPT_NUM;
+
+/*
+40. Write a query to display 
+the employee number, first name, last name, and largest salary amount 
+for each employee in department 200. 
+Sort the output by largest salary in descending order (Figure P7.40).
+*/
+SELECT LGEMPLOYEE.EMP_NUM, EMP_FNAME, EMP_LNAME, MAX(SAL_AMOUNT) AS LARGESTSALARY
+FROM LGEMPLOYEE JOIN LGSALARY_HISTORY
+ON LGEMPLOYEE.EMP_NUM = LGSALARY_HISTORY.EMP_NUM
+WHERE DEPT_NUM = 200
+GROUP BY LGEMPLOYEE.EMP_NUM
+ORDER BY LARGESTSALARY DESC;
+;
+
+
