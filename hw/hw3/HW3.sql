@@ -1,4 +1,4 @@
-USE ContructCo;
+USE ConstructCo;
 
 /* 1 */
 SELECT EMP_NUM, EMP_LNAME, EMP_FNAME, EMP_INITIAL
@@ -440,6 +440,183 @@ ON LGEMPLOYEE.EMP_NUM = LGSALARY_HISTORY.EMP_NUM
 WHERE DEPT_NUM = 200
 GROUP BY LGEMPLOYEE.EMP_NUM
 ORDER BY LARGESTSALARY DESC;
+
+/*
+41. Write a query to display 
+the customer code, first name, last name, and sum of all invoice totals 
+for customers with cumulative invoice totals greater than $1,500. 
+Sort the output by the sum of invoice totals in descending order (Figure P7.41).
+*/
+SELECT
+LGCUSTOMER.CUST_CODE, CUST_FNAME, CUST_LNAME, 
+SUM(INV_TOTAL) AS TOTALINVOICES
+FROM LGCUSTOMER JOIN LGINVOICE
+ON LGCUSTOMER.CUST_CODE = LGINVOICE.CUST_CODE
+GROUP BY LGCUSTOMER.CUST_CODE
+HAVING TOTALINVOICES > 1500
+ORDER BY TOTALINVOICES DESC;
+
+/*
+42. Write a query to display 
+the department number, department name, department phone number, employee number, 
+and last name of each department manager. 
+Sort the output by department name.
+*/
+SELECT LGDEPARTMENT.DEPT_NUM, DEPT_NAME, DEPT_PHONE, LGEMPLOYEE.EMP_NUM, EMP_LNAME
+FROM LGDEPARTMENT JOIN LGEMPLOYEE 
+ON LGDEPARTMENT.EMP_NUM = LGEMPLOYEE.EMP_NUM
+ORDER BY DEPT_NAME;
+
+/*
+43. Write a query to display the vendor ID, vendor name, brand name,
+and number of products of each brand supplied by each vendor. 
+Sort the output by vendor name and then by brand name (Figure P7.43).
+*/
+
+SELECT LGVENDOR.VEND_ID, VEND_NAME, BRAND_NAME, 
+COUNT(LGPRODUCT.PROD_SKU) AS NUMPRODUCTS
+FROM LGVENDOR
+JOIN LGSUPPLIES ON LGVENDOR.VEND_ID = LGSUPPLIES.VEND_ID
+JOIN LGPRODUCT ON LGSUPPLIES.PROD_SKU = LGPRODUCT.PROD_SKU
+JOIN LGBRAND ON LGPRODUCT.BRAND_ID = LGBRAND.BRAND_ID
+GROUP BY LGVENDOR.VEND_ID, LGBRAND.BRAND_ID
+ORDER BY VEND_NAME, BRAND_NAME;
+
+/*
+44. Write a query to display the employee number, last name, first name, 
+and sum of invoice totals for all employees who completed an invoice. 
+Sort the output by employee last name and then by first name (Figure P7.44).
+*/
+
+SELECT LGEMPLOYEE.EMP_NUM, EMP_LNAME, EMP_FNAME,
+SUM(LGINVOICE.INV_TOTAL) AS TOTALINVOICES
+FROM LGEMPLOYEE JOIN LGINVOICE
+ON LGEMPLOYEE.EMP_NUM = LGINVOICE.EMPLOYEE_ID
+GROUP BY LGEMPLOYEE.EMP_NUM
+ORDER BY EMP_LNAME, EMP_FNAME;
+
+/*
+45.  Write a query to display the largest average product price of any brand.
+*/
+SELECT MAX(AVGBRANDPRICE) AS `LARGEST AVERAGE` FROM (
+	SELECT ROUND(AVG(LGPRODUCT.PROD_PRICE),2) AS AVGBRANDPRICE
+	FROM LGPRODUCT
+	JOIN LGBRAND ON LGPRODUCT.BRAND_ID = LGBRAND.BRAND_ID
+	GROUP BY LGBRAND.BRAND_ID
+) AS AVGPRICE;
+
+
+/*
+46. Write a query to display the brand ID, brand name, brand type, 
+and average price of products for the brand 
+that has the largest average product price .
+*/
+
+SELECT LGBRAND.BRAND_ID, BRAND_NAME, BRAND_TYPE, 
+AVG(LGPRODUCT.PROD_PRICE) AS AVERAGE
+FROM LGPRODUCT JOIN LGBRAND 
+ON LGPRODUCT.BRAND_ID = LGBRAND.BRAND_ID
+GROUP BY LGBRAND.BRAND_ID
+HAVING AVERAGE = (
+	SELECT MAX(AVGBRANDPRICE) FROM (
+		SELECT AVG(LGPRODUCT.PROD_PRICE) AS AVGBRANDPRICE
+		FROM LGPRODUCT
+		JOIN LGBRAND ON LGPRODUCT.BRAND_ID = LGBRAND.BRAND_ID
+		GROUP BY LGBRAND.BRAND_ID
+	) AS AVGPRICE
+);
+
+/*
+47. Write a query to display the manager name, department name, department phone number, 
+employee name, customer name, invoice date, and invoice total 
+for the department manager of the employee who made a sale to 
+a customer whose last name is Hagan on May 18, 2015.
+*/
+SELECT 
+EMP_FNAME AS MANAGER_FNAME,
+EMP_LNAME AS MANAGER_LNAME,
+DEPT_NAME, DEPT_PHONE
+FROM LGEMPLOYEE JOIN LGDEPARTMENT
+ON LGEMPLOYEE.EMP_NUM = LGEMPLOYEE.EMP_NUM
 ;
+
+
+
+SELECT
+MANAGER_FNAME, MANAGER_LNAME,
+DEPT_NAME, DEPT_PHONE,
+EMP_FNAME,EMP_LNAME,
+CUST_FNAME,CUST_LNAME,
+INV_DATE, INV_TOTAL
+FROM LGINVOICE
+JOIN LGCUSTOMER ON LGINVOICE.CUST_CODE = LGCUSTOMER.CUST_CODE
+JOIN LGEMPLOYEE ON LGINVOICE.EMPLOYEE_ID = LGEMPLOYEE.EMP_NUM
+JOIN LGDEPARTMENT ON LGEMPLOYEE.DEPT_NUM = LGDEPARTMENT.DEPT_NUM
+JOIN (
+	SELECT
+	EMP_NUM AS MANAGER_NUM,
+	EMP_FNAME AS MANAGER_FNAME,
+	EMP_LNAME AS MANAGER_LNAME
+	FROM LGEMPLOYEE
+) AS LGMANAGER ON LGMANAGER.MANAGER_NUM = LGDEPARTMENT.EMP_NUM
+WHERE CUST_LNAME = "Hagan" AND INV_DATE = "2017-05-18";
+
+/*
+48. Write a query to display the current salary for each employee in department 300. 
+Assume that only current employees are kept in the system, 
+and therefore the most current salary for each employee is the entry in the salary history with a NULL end date. 
+Sort the output in descending order by salary amount (Figure P7.48).
+*/
+SELECT LGEMPLOYEE.EMP_NUM, EMP_LNAME, EMP_FNAME, SAL_AMOUNT
+FROM LGEMPLOYEE JOIN LGSALARY_HISTORY
+ON LGEMPLOYEE.EMP_NUM = LGSALARY_HISTORY.EMP_NUM
+WHERE DEPT_NUM = 300 AND SAL_END IS NULL
+ORDER BY SAL_AMOUNT DESC;
+
+
+/* 
+49. Write a query to display the starting salary for each employee. 
+The starting salary would be the entry in the salary history with the oldest salary start date for each employee. 
+Sort the output by employee number (Figure P7.49).
+*/
+
+SELECT DISTINCT LGEMPLOYEE.EMP_NUM, EMP_LNAME, EMP_FNAME, SAL_AMOUNT
+FROM LGEMPLOYEE JOIN LGSALARY_HISTORY
+ON LGEMPLOYEE.EMP_NUM = LGSALARY_HISTORY.EMP_NUM
+JOIN (
+	SELECT LGEMPLOYEE.EMP_NUM, MIN(SAL_FROM) AS STARTDATE
+	FROM LGEMPLOYEE JOIN LGSALARY_HISTORY
+	ON LGEMPLOYEE.EMP_NUM = LGSALARY_HISTORY.EMP_NUM
+	GROUP BY LGEMPLOYEE.EMP_NUM
+) AS SAL_START 
+ON SAL_FROM = SAL_START.STARTDATE AND LGEMPLOYEE.EMP_NUM = SAL_START.EMP_NUM;
+
+
+/*
+Write a query to display the employee number, employee first name, employee last name, email address, 
+and total units sold for the employee who sold the most Binder Prime brand products between November 1, 2015, and December 5, 2015. 
+If there is a tie for most units sold, sort the output by employee last name
+*/
+SELECT EMP_NUM, EMP_FNAME,EMP_LNAME, EMP_EMAIL, COUNT(LGINVOICE.INV_NUM) AS TOTALINVOICE
+FROM LGEMPLOYEE
+JOIN LGINVOICE ON LGINVOICE.EMPLOYEE_ID = LGEMPLOYEE.EMP_NUM
+JOIN LGLINE ON LGINVOICE.INV_NUM = LGLINE.INV_NUM
+JOIN LGPRODUCT ON LGLINE.PROD_SKU = LGPRODUCT.PROD_SKU
+JOIN LGBRAND ON LGBRAND.BRAND_ID = LGPRODUCT.BRAND_ID
+WHERE BRAND_NAME = "BINDER PRIME"
+GROUP BY EMP_NUM
+HAVING TOTALINVOICE = (
+	SELECT MAX(TOTALINVOICE) FROM (
+		SELECT COUNT(LGINVOICE.INV_NUM) AS TOTALINVOICE
+		FROM LGEMPLOYEE
+		JOIN LGINVOICE ON LGINVOICE.EMPLOYEE_ID = LGEMPLOYEE.EMP_NUM
+		JOIN LGLINE ON LGINVOICE.INV_NUM = LGLINE.INV_NUM
+		JOIN LGPRODUCT ON LGLINE.PROD_SKU = LGPRODUCT.PROD_SKU
+		JOIN LGBRAND ON LGBRAND.BRAND_ID = LGPRODUCT.BRAND_ID
+		WHERE BRAND_NAME = "BINDER PRIME"
+		GROUP BY EMP_NUM
+	) AS MAXTV
+)
+ORDER BY EMP_LNAME;
 
 
