@@ -1,0 +1,501 @@
+productID,name,brand,price,color,size,quantity,description,category,createdAt,updatedAt
+1001,propafenone hydrochloride,Propafenone Hydrochloride,71.61,Puce,XS,64,Erigeron pallens Cronquist,Drugs,2020-11-12 12:07:51,2021-06-30 05:11:13
+1002,Caffeine,Stay Awake,245.22,Aquamarine,3XL,132,Eleocharis lanceolata Fernald,Drugs,2021-01-31 17:04:45,2021-05-25 07:24:06
+1003,tolmetin Sodium,Tolmetin Sodium,179.95,Mauv,S,98,Carex sartwellii Dewey var. sartwellii,Drugs,2020-12-02 03:03:46,2021-08-03 08:35:03
+1004,Acetaminophen and Phenylephrine HCl,Sinus Congestion and Pain,37.56,Green,2XL,253,Agalinis harperi Pennell,Drugs,2020-12-16 14:55:05,2021-11-02 11:55:56
+1005,stavudine,stavudine,13.87,Orange,2XL,300,Lathyrus lanszwertii Kellogg var. tracyi (Bradshaw) Isely,Drugs,2020-11-27 17:07:52,2021-06-07 05:05:28
+1006,"AVOBENZONE,OCTINOXATE, OCTISALATE, OXYBENZONE",SunScreen SPF 30,239.98,Aquamarine,2XL,263,Silene soczaviana (Schischkin) Bocquet,Drugs,2021-01-28 03:37:46,2021-04-18 22:44:15
+1007,Terazosin Hydrochloride,Terazosin,12.63,Fuscia,2XL,111,Potentilla drummondii Lehm. ssp. drummondii,Drugs,2020-12-30 06:22:04,2021-09-14 15:56:42
+1008,Pyrithione Zinc,GKhair Anti-Dandruff,154.79,Blue,L,67,Salix glauca L. ssp. glauca var. glauca,Drugs,2020-11-15 23:18:57,2021-08-14 13:28:31
+1009,Treatment Set TS330927,Treatment Set TS330927,264.32,Turquoise,2XL,167,Lupinus lyallii A. Gray ssp. lyallii var. danaus (A. Gray) S. Watson,Drugs,2021-02-01 17:04:16,2021-07-29 07:38:45
+1010,Temazepam,Temazepam,206.48,Turquoise,2XL,268,Phlox andicola E.E. Nelson ssp. andicola,Drugs,2021-02-17 20:38:03,2021-06-19 00:29:46
+1011,"Berberis vulgaris, Chelidonium majus, Lappa major, Phytolacca Decandra, Calcarea fluorica, Carbo animalis, Nux vomica,",Envirostat,147.64,Blue,3XL,294,Campylium radicale (P. Beauv.) Grout,Drugs,2021-01-10 06:45:28,2021-03-26 00:57:17
+1012,Temozolomide,Temozolomide,46.62,Fuscia,M,296,Eriogonum umbellatum Torr. var. glaberrimum (Gandog.) Reveal,Drugs,2020-11-30 05:50:39,2021-04-23 10:29:58
+1013,amlodipine and valsartan,Amlodipine and Valsartan,212.51,Goldenrod,XS,281,Lupinus apertus A. Heller,Drugs,2021-02-11 05:15:02,2021-10-14 14:59:52
+1014,maraviroc,SELZENTRY,222.18,Yellow,XL,219,Myriotrema glaucophaeum (Krempelh.) Hale,Drugs,2021-01-22 06:52:46,2021-03-16 19:24:35
+1015,Chlordiazepoxide Hydrochloride,Chlordiazepoxide Hydrochloride,282.52,Teal,M,293,Stachytarpheta mutabilis (Jacq.) Vahl,Drugs,2021-01-03 13:00:17,2021-08-12 04:58:36
+1016,Risperidone,Risperidone,131.36,Crimson,L,132,Callitriche peploides Nutt.,Drugs,2021-02-24 00:31:53,2021-10-30 21:35:19
+1017,MENTHOL,SUGAR FREE GREEN TEA WITH ECHINACEA COUGH SUPPRESSANT THROAT DROPS,97.2,Crimson,M,208,"Schiedea attenuata W.L. Wagner, S.G. Weller & A.K. Sakai",Drugs,2021-01-28 00:31:45,2021-08-26 23:00:14
+1018,Olanzapine,Olanzapine,249.19,Teal,2XL,142,Lupinus purpurascens A. Heller,Drugs,2021-01-05 06:48:46,2021-03-15 20:36:28
+1019,TRETINOIN,TretinX,280.11,Mauv,3XL,104,Thamnolia vermicularis (Sw.) Ach. ex Schaerer,Drugs,2021-02-09 06:21:56,2021-09-17 09:35:52
+1020,clozapine,Clozaril,64.4,Aquamarine,S,136,Phyllostegia kaalaensis H. St. John,Drugs,2021-02-08 23:59:15,2021-06-08 18:25:05
+1021,metformin hydrochloride,Metformin Hydrochloride,43.55,Red,XL,85,Viola adunca Sm. var. kirkii V.G. Duran,Drugs,2020-12-02 05:27:00,2021-03-07 05:13:17
+1022,Warfarin Sodium,Warfarin Sodium,140.13,Crimson,XL,195,Pleurothallis R. Br.,Drugs,2020-12-02 09:30:18,2021-08-30 22:18:35
+1023,SALICYLIC ACID,Home Health Psoriasis,183.46,Orange,S,113,Vaccinium tenellum Aiton,Drugs,2021-02-07 14:13:52,2021-06-09 08:31:12
+1024,Benzocaine,PureLife Topical Anesthetic,269.26,Yellow,XL,276,Hohenbergia portoricensis Mez,Drugs,2020-12-17 08:08:58,2021-09-16 17:11:10
+1025,Aurum Crataegus,Aurum Crataegus,287.7,Blue,XL,199,Carex albolutescens Schwein.,Drugs,2021-02-01 19:34:26,2021-08-28 14:31:23
+1026,Salicylic Acid,Neutrogena SkinClearing,173.35,Fuscia,S,155,Panicum brachyanthum Steud.,Drugs,2020-11-18 07:02:15,2021-07-04 01:14:47
+1027,Salicylic Acid,Santalia Clinical Daily Cleanser,43.51,Yellow,XS,134,Carduus L.,Drugs,2021-02-27 13:20:17,2021-09-02 03:44:35
+1028,"benzalkonium chloride, benzocaine",Antiseptic,48.07,Turquoise,XL,52,Tortula amphidiacea (Müll. Hal.) Broth.,Drugs,2021-01-26 04:12:02,2021-03-19 08:00:15
+1029,Poplar,Poplar,156.0,Maroon,XS,226,Catopsis floribunda L.B. Sm.,Drugs,2020-11-23 22:16:05,2021-10-16 12:30:28
+1030,pravastatin sodium,pravastatin sodium,41.06,Pink,2XL,119,Silene L.,Drugs,2020-11-08 23:58:24,2021-10-15 20:06:47
+1031,Minoxidil,Mens rogaine,137.32,Turquoise,S,155,Quercus coccinea Münchh. var. tuberculata Sarg.,Drugs,2020-12-13 01:08:00,2021-09-26 06:39:54
+1032,MORPHINE SULFATE,AVINZA,109.31,Mauv,XS,110,Lepidium schinzii Thell.,Drugs,2021-02-20 16:19:38,2021-11-05 01:55:28
+1033,Metoprolol Tartrate,Metoprolol Tartrate,33.34,Yellow,L,106,Arabis hirshbergiae S. Boyd,Drugs,2021-02-06 04:18:55,2021-06-09 07:05:52
+1034,"Arsenic Trioxide, Cadmium Sulfate, Oyster Shell Calcium Carbonate, Crude, Human Breast Tumor Cell, Conium Maculatum Flowering Top, Lycopodium Clavatum Spore, Gonorrheal Urethral Secretion Human, Phytolacca Americana Root, Scabies Lesion Lysate (Human), Sulfur, Treponemic Skin Canker Human, Thuja Occidentalis Leafy Twig",VITAL HP,140.31,Khaki,XL,141,Seligeria diversifolia Lindb.,Drugs,2021-01-11 07:50:41,2021-08-24 19:27:12
+1035,Eszopiclone,Eszopiclone,31.72,Blue,XL,291,Astragalus robbinsii (Oakes) A. Gray var. minor (Hook.) Barneby,Drugs,2021-01-01 08:13:28,2021-08-03 23:06:10
+1036,CALCIUM FLUORIDE,CALC FLUOR,77.21,Goldenrod,XL,124,Poa fendleriana (Steud.) Vasey ssp. longiligula (Scribn. & T.A. Williams) Soreng,Drugs,2021-02-02 13:39:17,2021-10-28 03:48:16
+1037,Propylthiouracil,Propylthiouracil,93.55,Teal,L,142,Iris hartwegii Baker ssp. pinetorum (Eastw.) Lenz,Drugs,2021-02-15 15:05:00,2021-03-05 06:22:03
+1038,"OCTINOXATE, TITANIUM DIOXIDE, and ZINC OXIDE",AMOREPACIFIC,221.58,Teal,L,89,Eragrostis capillaris (L.) Nees,Drugs,2020-11-09 15:27:56,2021-05-04 12:52:55
+1039,"Apis mellifica, Belladonna, Berberis vulgaris, Cantharis, Echinacea ang, Equissetum avense, Hydrastis, Mercurius solubilis, Pulsatilla, Staphysagria",Bladder Complex,100.83,Mauv,3XL,163,Antennaria plantaginifolia (L.) Richardson,Drugs,2020-12-22 03:00:44,2021-05-04 14:17:06
+1040,Rifampin,Rifampin,274.95,Red,XS,185,Cotula L.,Drugs,2020-11-21 12:52:32,2021-04-30 05:25:31
+1041,prednisolone,Prednisolone,174.46,Mauv,3XL,125,Tiquilia plicata (Torr.) A.T. Richardson,Drugs,2021-02-20 14:25:03,2021-04-04 11:34:00
+1042,"Brome, Smooth Bromus inermis","Pollens - Grasses, Brome, Smooth Bromus inermis",192.25,Puce,XS,211,Polygala cornuta Kellogg var. fishiae (Parry) Jeps.,Drugs,2020-11-17 09:59:03,2021-09-09 20:45:17
+1043,Avobenzone Homosalate Octisalate Octocrylene Oxybenzone,Lancome Bienfait UV SPF 50 Plus,115.58,Fuscia,2XL,213,Alopecurus ×haussknechtianus Asch. & Graebn.,Drugs,2020-12-19 19:18:26,2021-05-21 16:15:44
+1044,Extra Strength Itch Relief Continuous Spray,Diphenhydramine HCl and Zinc Acetate,48.9,Teal,XL,97,Lathyrus clymenum L.,Drugs,2020-12-28 01:43:05,2021-06-04 10:32:34
+1045,ATROPINE SULFATE,Atropine Sulfate,201.82,Turquoise,XL,134,Eriogonum greggii Torr. & A. Gray,Drugs,2021-01-16 21:48:26,2021-05-19 19:19:38
+1046,Ibuprofen,Ibuprofen,142.94,Fuscia,S,276,Mertensia paniculata (Aiton) G. Don var. alaskana (Britton) L.O. Williams,Drugs,2020-12-16 18:01:24,2021-04-05 03:40:05
+1047,Sodium Chloride,Sodium Chloride,23.12,Red,L,267,Lesquerella occidentalis S. Watson ssp. cinerascens (Maguire & A.H. Holmgren) Rollins & Shaw,Drugs,2020-12-08 22:30:51,2021-06-24 02:57:06
+1048,Diphenhydramine Hydrochloride,CHILDRENS ALLERGY,229.77,Teal,3XL,109,Helenium L.,Drugs,2021-02-10 13:47:21,2021-08-16 15:02:56
+1049,Loperamide Hydrochloride,leader loperamide,121.94,Red,S,294,Fimbristylis annua (All.) Roem. & Schult.,Drugs,2021-02-18 07:12:49,2021-04-23 17:48:12
+1050,"Borax 30c, Calc Carb 30c, Capsicum 30c, Chamomilla 30c, Cina 30c, Lac Can 30c, Kali Bromatum 30c, Stramonium 30c",Night Terrors,275.04,Pink,L,50,Chamaechaenactis scaposa (Eastw.) Rydb. var. scaposa,Drugs,2021-01-10 16:38:31,2021-09-20 04:36:05
+1051,Hydrogen peroxide,Dynarex HP 3,99.69,Pink,2XL,215,Ligusticum grayi J.M. Coult. & Rose,Drugs,2020-12-30 07:37:22,2021-10-16 13:48:23
+1052,Menthol,Stressa Back and Neck Pain Relieving,154.53,Pink,XS,198,Seligeria careyana Vitt & Schof.,Drugs,2020-12-29 09:10:32,2021-10-12 04:38:37
+1053,CEFTIBUTEN DIHYDRATE,CEDAX,93.91,Orange,L,87,Celosia L.,Drugs,2020-12-03 09:56:41,2021-06-18 18:30:22
+1054,diltiazem hydrochloride,diltiazem hydrochloride,237.03,Teal,S,225,Juniperus phoenicea L.,Drugs,2021-02-05 00:55:55,2021-06-07 14:38:14
+1055,MINOCYCLINE HYDROCHLORIDE,MINOCYCLINE HYDROCHLORIDE,177.67,Khaki,3XL,167,Echinochloa turneriana (Domin) J.M. Black,Drugs,2021-02-23 19:43:15,2021-05-30 05:50:43
+1056,Enoxaparin Sodium,Enoxaparin Sodium,270.36,Aquamarine,2XL,295,Cryptantha maritima (Greene) Greene var. pilosa I.M. Johnst.,Drugs,2021-02-20 17:35:18,2021-04-07 04:37:54
+1057,Oxybutynin Chloride,Oxybutynin Chloride,93.74,Orange,XS,265,Silene involucrata (Cham. & Schltdl.) Bocquet ssp. elatior (Regel) Bocquet,Drugs,2021-01-06 17:40:27,2021-06-21 00:19:37
+1058,DOXYCYCLINE HYCLATE,Doxycycline Hyclate,89.39,Indigo,2XL,206,Rosa centifolia L.,Drugs,2021-01-15 03:05:02,2021-10-31 15:18:01
+1059,Dill,Dill,287.09,Teal,M,109,Casimiroa Llave & Lex.,Drugs,2020-11-23 10:38:05,2021-04-17 20:50:41
+1060,Ciprofloxacin,Ciprofloxacin,85.81,Blue,3XL,202,Tonella tenella (Benth.) A. Heller,Drugs,2021-02-21 23:39:08,2021-07-02 15:02:11
+1061,TRICLOSAN,Shopko Antibacterial Foaming Hand Sanitizer,102.46,Goldenrod,2XL,259,Ledum ×columbianum Piper (pro sp.),Drugs,2020-12-07 09:40:36,2021-09-30 09:01:48
+1062,"OCTINOXATE, TITANIUM DIOXIDE",CD DIORSKIN NUDE SKIN-GLOWING MAKEUP SUNSCREEN BROAD SPECTRUM SPF 15 023 Peach,250.63,Mauv,M,248,Bauhinia fassoglensis Kotschy ex Schweinf.,Drugs,2021-01-02 19:38:39,2021-07-05 01:52:48
+1063,"Butalbital, Acetaminophen, and Caffeine","Butalbital, Acetaminophen, and Caffeine",145.88,Khaki,XL,216,Peltigera neopolydactyla (Gyel.) Gyel.,Drugs,2021-02-08 17:34:31,2021-05-07 13:52:36
+1064,"Sodium Sulfacetamide, Sulfur","Sodium Sulfacetamide, Sulfur",38.41,Turquoise,M,293,Echinopepon wrightii (A. Gray) S. Watson,Drugs,2020-11-11 12:29:20,2021-08-11 18:52:49
+1065,varenicline tartrate,Chantix,243.25,Goldenrod,2XL,275,Pilea multicaulis Urb.,Drugs,2020-12-17 21:47:35,2021-07-01 19:51:23
+1066,Ampicillin sodium and Sulbactam sodium,Ampicillin and Sulbactam,265.78,Turquoise,XL,261,Ipomoea wrightii A. Gray,Drugs,2020-12-24 19:23:49,2021-08-30 09:05:10
+1067,Flounder,Flounder,212.58,Khaki,L,196,Tiquilia greggii (Torr. & A. Gray) A.T. Richardson,Drugs,2021-02-25 22:29:41,2021-07-19 02:12:46
+1068,"Apis mellifica, Bolda, Fucus vesiculosus, Galium aparine, Gambogia, Hamamelis virginiana, Hepar suis, Histaminum hydrochloricum, Pancreas suis, Thuja occidentalis",Sprayology Diet Power,268.96,Purple,L,199,Sidalcea malviflora (DC.) A. Gray ex Benth. ssp. laciniata C.L. Hitchc.,Drugs,2020-11-11 10:43:21,2021-09-14 23:51:55
+1069,Triclosan,Mandarin Orange Antibacterial Hand,234.72,Pink,L,159,Veronica polita Fr.,Drugs,2021-02-28 01:50:19,2021-10-10 04:08:28
+1070,"Vitamin A, Vitamin D, Thiamine, Riboflavin, Niacin, Pyridoxine, Folic Acid, Fluoride Ion, Ascorbic Acid, .Alpha.-Tocopherol-Acetate-DL, Cyanocobalamin",Multi-Vitamin With Fluoride,150.66,Red,2XL,246,Sicyos semitonsus H. St. John,Drugs,2021-01-09 04:01:00,2021-04-24 00:57:50
+1071,ASAFOETIDA,ASAFOETIDA,159.15,Aquamarine,L,197,Alyssum alyssoides (L.) L.,Drugs,2021-02-11 06:45:23,2021-09-14 07:59:06
+1072,Chelidonium Curcuma Thuja,Chelidonium Curcuma Thuja,40.13,Orange,XL,259,Magnolia ×soulangiana Soul.-Bod.,Drugs,2021-02-03 02:58:23,2021-06-10 19:27:14
+1073,Benazepril Hydrochloride,Benazepril Hydrochloride,262.48,Orange,2XL,132,Guapira discolor (Spreng.) Little,Drugs,2021-02-15 03:40:00,2021-08-11 01:49:34
+1074,"OCTINOXATE, OXYBENZONE, TITANIUM DIOXIDE",DIORSNOW BB Creme 010 White Reveal UV Protection Sunscreen Broad Spectrum SPF 50,167.0,Purple,XS,236,Harrisia portoricensis Britton,Drugs,2021-02-19 14:09:26,2021-04-17 17:56:36
+1075,Simvastatin,Simvastatin,209.64,Violet,M,237,Chamaesyce platysperma (Engelm. ex S. Watson) Shinners,Drugs,2020-12-02 00:16:43,2021-07-29 14:16:08
+1076,"Capsaicin, Menthol",Salonpas pain relieving GEL-PATCH HOT,39.54,Goldenrod,M,203,Erodium macrophyllum Hook. & Arn. var. macrophyllum,Drugs,2020-11-20 05:18:42,2021-07-10 18:54:40
+1077,"ACETAMINOPHEN, CAFFEINE, and PYRILAMINE MALEATE",Midol Complete,295.65,Yellow,M,103,Lupinus parviflorus Nutt. ex Hook. & Arn. ssp. parviflorus,Drugs,2020-12-01 12:11:14,2021-09-13 09:19:43
+1078,SILICON DIOXIDE,SILICEA,174.9,Fuscia,2XL,153,Hymenoxys jamesii Bierner,Drugs,2021-02-02 21:01:31,2021-05-22 01:32:32
+1079,"Calcarea Carbonica, Chininum Sulphuricum, Kali Carbonicum, Lycopodium Clavatum, Salicylicum Acidum",Tinnitus Relief,295.59,Green,L,160,Basiphyllaea Schltr.,Drugs,2021-02-19 06:56:41,2021-04-20 13:50:01
+1080,Benzonatate,Benzonatate,192.41,Yellow,3XL,160,Stellaria media (L.) Vill.,Drugs,2021-01-04 14:24:59,2021-05-28 21:06:46
+1081,Eszopiclone,Eszopiclone,44.43,Yellow,L,159,Lupinus parviflorus Nutt. ex Hook. & Arn. ssp. parviflorus,Drugs,2020-12-23 19:24:08,2021-07-31 13:57:06
+1082,lubiprostone,Amitiza,264.95,Blue,L,92,Schoenoplectus etuberculatus (Steud.) Soják,Drugs,2021-02-02 15:50:08,2021-07-22 09:41:56
+1083,Sodium Chloride,Sodium Chloride,91.22,Khaki,M,63,Gentiana andrewsii Griseb.,Drugs,2020-12-30 06:17:30,2021-06-07 23:51:56
+1084,OCTREOTIDE ACETATE,Octreotide,168.48,Mauv,2XL,215,Campanula cochlearifolia Lam.,Drugs,2021-01-20 16:37:26,2021-03-11 08:00:43
+1085,bacitracin zinc,Bacitracin Zinc,109.52,Turquoise,XL,168,Sesbania virgata (Cav.) Poir.,Drugs,2021-01-09 17:15:12,2021-09-04 04:36:55
+1086,"OXYBENZONE, AVOBENZONE, OCTOCRYLENE",Peter Island Continous sunscreen,164.12,Indigo,XS,256,Castilleja yukonis Pennell,Drugs,2020-12-20 07:10:47,2021-04-15 11:13:18
+1087,Aluminum Zirconium Tetrachlorohydrex Gly,Secret Fresh Effects Invisible,200.76,Pink,XS,56,Grammitis Sw.,Drugs,2020-11-28 09:13:04,2021-03-27 22:40:48
+1088,hydroxyzine hydrochloride,Hydroxyzine Hydrochloride,92.07,Indigo,L,109,Gahnia beecheyi H. Mann,Drugs,2020-12-09 17:51:41,2021-06-22 21:17:53
+1089,carisoprodol,carisoprodol,130.54,Teal,M,239,Sinningia speciosa (G. Lodd.) Hiern,Drugs,2021-02-03 00:05:22,2021-07-20 06:38:57
+1090,Bacitracin Zinc,Premier Value,57.79,Crimson,XL,285,Potamogeton pulcher Tuck.,Drugs,2020-11-09 04:40:19,2021-08-27 03:57:56
+1091,ASPIRIN,MINIPRIN,187.78,Green,S,59,"Calopogon tuberosus (L.) Britton, Sterns & Poggenb. var. tuberosus",Drugs,2021-01-04 10:48:37,2021-06-13 00:19:14
+1092,Octinoxate and Oxybenzone,ESIKA,92.73,Indigo,S,158,Drymaria leptophylla (Cham. & Schltdl.) Fenzl ex Rohrb.,Drugs,2021-02-06 22:29:42,2021-10-21 10:23:59
+1093,Lisinopril and Hydrochlorothiazide,Lisinopril and Hydrochlorothiazide,251.04,Pink,L,268,Corydalis solida (L.) Clairv.,Drugs,2020-11-08 23:30:12,2021-04-15 02:36:29
+1094,Water Oak,Water Oak,201.46,Purple,3XL,169,Chorizanthe cuspidata S. Watson var. villosa (Eastw.) Munz,Drugs,2021-02-17 19:14:22,2021-07-07 07:15:36
+1095,Silver Sulfadiazine,Silver Sulfadiazene,99.08,Khaki,M,180,Cymopterus jonesii J.M. Coult. & Rose,Drugs,2020-11-09 14:44:58,2021-05-17 12:18:28
+1096,PROGESTERONE,PROGESTERONE,58.62,Turquoise,S,266,Pterigynandrum filiforme Hedw.,Drugs,2020-12-31 07:50:39,2021-05-31 06:10:38
+1097,Weed mix 2630,"Pollens - Weeds, Weed mix 2630",83.13,Khaki,XL,142,Downingia pulchella (Lindl.) Torr.,Drugs,2020-12-01 23:51:33,2021-10-15 00:25:44
+1098,Petrolatum,Choice Vitamin A D,137.1,Aquamarine,3XL,266,Cladonia luteoalba Wheldon & A. Wilson,Drugs,2020-12-10 10:20:15,2021-06-01 03:17:11
+1099,Carbon Dioxide,Carbon Dioxide,168.13,Green,XL,91,Viola purpurea Kellogg ssp. integrifolia M.S. Baker & J.C. Clausen,Drugs,2020-12-31 04:47:45,2021-05-19 05:29:22
+1100,"Allium Sativum, Berberis Vulgaris, Glycyrrhiza Glabra, Lappa Major, Phytolacca Decandra, Rhamnus Frangula, Stillingia Sylvatica",Metalogin,28.66,Puce,L,78,Carex barrattii Schwein. & Torr.,Drugs,2021-02-04 18:01:32,2021-07-10 10:18:34
+1101,"Nat mur , Lupulus, Castoreum , Argentum nit , Syphilinum",Sweat-Less,36.96,Violet,S,181,Juniperus polycarpos K. Koch,Drugs,2021-02-03 12:26:26,2021-04-05 19:10:28
+1102,ALCOHOL,PURELL Advanced Instant Hand Sanitizer,274.04,Fuscia,XL,249,Symphyotrichum chilense (Nees) G.L. Nesom var. chilense,Drugs,2021-01-06 16:16:18,2021-09-02 18:25:50
+1103,guanfacine,Intuniv,250.29,Mauv,3XL,107,Rhamnus japonica Maxim.,Drugs,2021-02-18 20:00:56,2021-04-01 15:40:06
+1104,Menthol,Power Relief,261.4,Orange,3XL,167,Spiranthes romanzoffiana Cham.,Drugs,2020-11-16 18:09:36,2021-08-29 11:27:00
+1105,Aluminum Chlorohydrate,Sure Antiperspirant Deodorant Fresh,38.48,Green,L,191,Arnica montana L.,Drugs,2020-12-25 05:27:02,2021-06-11 05:17:27
+1106,TITANIUM DIOXIDE,Bronzing Duo SPF 15 Mineral Compact Tint 02 Medium,33.86,Purple,M,230,Bromus stamineus Desv.,Drugs,2020-12-24 12:49:39,2021-04-14 10:50:03
+1107,simvastatin,simvastatin,234.62,Goldenrod,XL,249,Draba maguirei C.L. Hitchc.,Drugs,2021-02-13 09:05:15,2021-08-04 16:36:59
+1108,Fluoxetine Hydrochloride,Fluoxetine,147.01,Red,M,204,Tayloria Hook.,Drugs,2020-12-20 20:01:23,2021-06-01 14:24:07
+1109,Quetiapine fumarate,SEROQUEL,63.01,Goldenrod,XL,252,Microchloa kunthii Desv.,Drugs,2021-01-09 07:20:37,2021-07-09 08:47:59
+1110,SALICYLIC ACID,Proactiv Revitalizing Toner Combination Therapy Acne Treatment,159.16,Maroon,XS,225,Diplotaxis siifolia Kuntze,Drugs,2021-02-10 08:40:00,2021-05-03 18:09:27
+1111,insulin glargine,Lantus,228.24,Red,S,225,Gyalidea Lettau ex Vezda,Drugs,2020-11-25 06:07:24,2021-06-22 23:54:27
+1112,"Aconitum napellus, Arsenicum album,Baryta carbonica, Bryonia, Calcarea carbonica, Cantharis, Gelsemium sempervirens, Graphites, Hydrastis canadensis, Kali carbonicum, Lachesis mutus, Lycopodium clavatum, Mercurius vivus, Natrum muriaticum, Nux vomica, Phosphorus, Phytolacca decandra, Pulsatilla, Rhus toxicodendron, Sepia, Silicea, Sulphur",Constitutional Immuno,184.82,Mauv,XS,93,Ranunculus parviflorus L.,Drugs,2020-11-28 21:06:13,2021-07-17 06:24:49
+1113,Amitriptyline Hydrochloride,Amitriptyline Hydrochloride,205.54,Blue,XL,275,Ceanothus cyaneus Eastw.,Drugs,2020-12-16 12:27:23,2021-09-13 00:50:26
+1114,Thalidomide,Thalomid,224.35,Crimson,XL,57,Bouteloua gracilis (Willd. ex Kunth) Lag. ex Griffiths,Drugs,2021-01-12 23:38:50,2021-07-08 22:19:05
+1115,Esomeprazole magnesium,NEXIUM,165.13,Indigo,3XL,134,Oxyspora paniculata (D. Don) DC.,Drugs,2020-12-08 22:19:34,2021-04-07 11:34:32
+1116,Cocklebur,XANTHIUM STRUMARIUM VAR CANADENSE POLLEN,130.22,Violet,XS,55,Lupinus diffusus Nutt.,Drugs,2020-12-16 21:59:33,2021-03-21 23:25:38
+1117,alcohol,Hand Sanitizer,70.37,Yellow,XL,65,Lupinus arbustus Douglas ex Lindl. ssp. pseudoparviflorus (Rydb.) D. Dunn,Drugs,2020-11-26 19:11:05,2021-05-11 20:26:38
+1118,"Iodium, Phytolacca decandra, Adrenalinum, Adrenocorticotrophin, Belladonna, Thyroidinum, Natrum muriaticum,",11 Thyroid Adrenal,19.82,Blue,S,250,Ranunculus kamchaticus DC.,Drugs,2021-01-09 20:41:50,2021-07-19 07:38:40
+1119,prednisone,RAYOS,209.63,Teal,L,145,Desmatodon leucostoma (R. Br.) Berggr.,Drugs,2021-01-20 23:24:12,2021-03-07 03:34:36
+1120,Aspirin,Aspirin,224.82,Pink,XS,268,Richardia humistrata (Cham. & Schltdl.) Schult. & Schult. f.,Drugs,2021-02-24 17:24:53,2021-07-25 13:49:35
+1121,levothyroxine sodium,Levothyroxine Sodium,264.91,Aquamarine,L,298,Pedicularis langsdorffii Fisch. ex Stev. ssp. langsdorffii,Drugs,2021-01-27 04:31:31,2021-09-03 21:05:43
+1122,Desoximetasone,Topicort,251.81,Puce,XS,298,Packera bolanderi (A. Gray) W.A. Weber & Á. Löve var. bolanderi,Drugs,2021-01-28 05:55:59,2021-05-09 15:54:50
+1123,"Acetaminophen, Dextromethorphan HBr, Doxylamine succinate",night time,124.71,Puce,XS,137,Sporobolus heterolepis (A. Gray) A. Gray,Drugs,2020-12-07 09:17:53,2021-07-21 14:46:33
+1124,oxybutynin chloride,Ditropan,192.73,Pink,3XL,65,Ulmus davidiana Planch. var. japonica (Rehder) Nakai [excluded],Drugs,2020-12-28 17:45:26,2021-06-29 06:22:53
+1125,Mineral Oil,Mineral Oil,93.24,Crimson,XL,269,Neotorularia Hedge & J. Léonard,Drugs,2021-02-10 00:39:13,2021-03-17 13:33:51
+1126,tocilizumab,ACTEMRA,237.53,Mauv,2XL,84,Silene douglasii Hook.,Drugs,2020-11-23 04:00:29,2021-06-19 13:33:45
+1127,Radish,Radish,37.76,Violet,S,152,Allium falcifolium Hook. & Arn.,Drugs,2021-01-14 14:45:50,2021-10-24 14:56:38
+1128,ANTI-WRINKLE DAY FLUID,ULTRA CORRECTION,20.02,Purple,S,244,Salix lemmonii Bebb,Drugs,2021-02-02 02:13:14,2021-10-28 20:51:27
+1129,LIDOCAINE HYDROCHLORIDE,Lidocaine Hydrochloride and Dextrose,227.02,Purple,2XL,140,Asclepias feayi Chapm. ex A. Gray,Drugs,2020-12-29 03:37:25,2021-11-02 19:11:42
+1130,Risperidone,Risperidone,156.82,Goldenrod,S,91,Anacyclus clavatus (Desf.) Pers.,Drugs,2021-01-08 15:59:28,2021-04-04 07:52:59
+1131,Promethazine hydrochloride,Promethazine hydrochloride,179.55,Purple,L,270,Allium peninsulare Lemmon ex Greene var. franciscanum McNeal & Ownbey,Drugs,2021-01-25 02:16:47,2021-10-01 07:15:31
+1132,Pemetrexed disodium,Alimta,49.89,Purple,3XL,275,Chaptalia dentata (L.) Cass.,Drugs,2020-12-24 00:11:26,2021-05-29 19:15:34
+1133,Alprazolam,Alprazolam,187.58,Purple,M,114,Mentzelia lindleyi Torr. & A. Gray,Drugs,2021-02-26 12:28:26,2021-05-28 08:49:10
+1134,Olanzapine,Zyprexa,289.39,Purple,2XL,187,Adiantum tricholepis Fée,Drugs,2020-12-05 23:12:15,2021-07-14 02:48:58
+1135,Treatment Set TS338384,Treatment Set TS338384,147.72,Puce,XS,239,Rosa davurica Pall.,Drugs,2020-11-20 15:53:37,2021-06-08 17:16:41
+1136,losartan potassium,losartan potassium,106.0,Red,L,210,Viola odorata L.,Drugs,2020-12-04 11:12:38,2021-06-28 11:20:03
+1137,MORPHINE SULFATE,MORPHINE SULFATE,86.08,Red,L,84,Stroganowia Kar. & Kir.,Drugs,2020-12-11 10:19:25,2021-04-24 06:32:05
+1138,"Avobenzone, Homosalate, Octisalate, Octocrylene and Oxybenzone",Kiehls Since 1851 Activated Sun Protector Broad Spectrum SPF 50 Sunscreen,218.81,Aquamarine,XL,243,Calycanthus floridus L. var. floridus,Drugs,2021-02-16 07:18:31,2021-06-04 23:14:24
+1139,peginterferon alfa-2b,PEGINTRON,238.52,Violet,3XL,80,Calochortus catalinae S. Watson,Drugs,2020-12-31 08:49:58,2021-11-05 14:44:20
+1140,MANNITOL,Mannitol,182.53,Violet,S,269,Ficus racemosa L.,Drugs,2021-01-19 19:15:14,2021-03-15 04:43:44
+1141,Diphenhydramine Hydrochloride,Sunmark Allergy Relief,85.63,Green,L,208,Margaranthus Schltdl.,Drugs,2021-01-19 06:30:58,2021-03-11 19:36:02
+1142,Trazodone Hydrochloride,Trazodone Hydrochloride,144.16,Teal,XS,75,Ipomoea tenuissima Choisy,Drugs,2020-12-28 05:06:22,2021-04-02 17:25:12
+1143,"OCTINOXATE, OXYBENZONE, OCTISALATE",Axe Crew Cut,105.15,Aquamarine,XS,129,Baileya Harv. & A. Gray ex A. Gray,Drugs,2020-12-25 21:53:44,2021-10-04 19:55:30
+1144,Coal Tar,Neutrogena TGel Therapeutic Stubborn Itch,55.19,Orange,XL,100,Tradescantia longipes E.S. Anderson & Woodson,Drugs,2020-12-13 11:03:13,2021-07-28 01:56:59
+1145,TITANIUM DIOXIDE,CLARINS Broad Spectrum SPF 15 Everlasting Foundation Tint 110,156.15,Red,3XL,261,Crataegus mollis Scheele,Drugs,2020-12-18 07:12:32,2021-10-15 11:07:14
+1146,Metoprolol succinate,TOPROL,83.37,Purple,M,146,Lysimachia graminea (Greene) Hand.-Maz.,Drugs,2020-12-09 08:43:45,2021-10-12 07:11:42
+1147,Benzocaine,Comfortcaine,264.77,Green,XL,139,Sinapis alba L.,Drugs,2020-12-05 16:28:40,2021-06-13 04:21:56
+1148,Chlordiazepoxide Hydrochloride,Chlordiazepoxide Hydrochloride,202.6,Violet,XL,106,Cleome viscosa L.,Drugs,2021-01-03 21:36:05,2021-08-11 13:51:57
+1149,DIPHENHYDRAMINE HYDROCHLORIDE,Diphenhydramine,266.88,Aquamarine,M,74,Amaranthus blitum L. var. pseudogracilis (Thell.) Costea,Drugs,2021-02-08 19:34:50,2021-09-27 16:26:41
+1150,Sweetgum,LIQUIDAMBAR STYRACIFLUA POLLEN,265.58,Pink,M,257,Dichondra occidentalis House,Drugs,2020-11-19 12:12:13,2021-05-31 17:33:12
+1151,Pancrelipase,Creon,48.26,Blue,M,278,Ribes cereum Douglas var. colubrinum C.L. Hitchc.,Drugs,2021-01-10 16:26:21,2021-04-13 04:59:47
+1152,"BRYONIA ALBA ROOT, CAUSTICUM, DROSERA ROTUNDIFOLIA FLOWERING TOP, IPECAC, PHOSPHORUS, RUMEX CRISPUS ROOT, and SPONGIA OFFICINALIS SKELETON, ROASTED",DEFEND Cough,167.32,Goldenrod,2XL,283,Potentilla glandulosa Lindl. ssp. reflexa (Greene) D.D. Keck,Drugs,2021-01-19 01:17:12,2021-03-23 18:56:58
+1153,Isopropyl alcohol,Isopropyl alcohol,91.04,Pink,XS,95,Chamaesyce arizonica (Engelm.) Arthur,Drugs,2021-02-22 06:28:45,2021-08-11 06:02:18
+1154,HUSKY 514,Sport Mate Non-Alcohol Foaming Instant Hand Sanitizer,234.93,Mauv,M,254,Allium hoffmanii Ownbey,Drugs,2020-12-25 00:10:46,2021-10-18 00:07:40
+1155,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone",Neutrogena Clear Face Break Out Free,115.21,Goldenrod,XS,135,Physostegia intermedia (Nutt.) Engelm. & A. Gray,Drugs,2020-12-24 13:52:03,2021-06-14 05:15:52
+1156,Fluocinolone Acetonide,Fluocinolone Acetonide,119.43,Maroon,3XL,93,Caloplaca catalinae H. Magn.,Drugs,2021-02-22 05:06:11,2021-05-03 02:56:28
+1157,CASPOFUNGIN ACETATE,CANCIDAS,24.26,Yellow,S,179,Macrocoma (Hornsch. ex Müll. Hal.) Grout,Drugs,2021-01-08 11:26:38,2021-10-20 18:11:46
+1158,German Cockroach,German Cockroach,118.38,Green,XL,218,Eupatorium semiserratum DC.,Drugs,2021-01-28 22:28:28,2021-04-24 21:23:16
+1159,DIPHENHYDRAMINE HYDROCHLORIDE 25 mg,SLEEP AID,33.69,Maroon,L,278,Eleocharis tortilis (Link) Schult.,Drugs,2021-01-25 02:17:58,2021-09-17 21:15:32
+1160,Clemastine Fumarate,Clemastine Fumarate,92.93,Teal,M,281,Iris hexagona Walter var. hexagona,Drugs,2021-01-04 19:12:46,2021-04-09 21:57:20
+1161,"bacitracin, neomycin, polymyxin B",Good Sense,239.02,Indigo,3XL,232,Chenopodium berlandieri Moq. var. bushianum (Aellen) Cronquist,Drugs,2020-11-13 15:19:29,2021-07-09 09:22:56
+1162,Urea,Urea,209.25,Red,M,97,Carex tonsa (Fernald) E.P. Bicknell,Drugs,2020-11-19 17:03:48,2021-08-03 17:43:49
+1163,Ziprasidone Hydrochloride,Ziprasidone Hydrochloride,150.16,Aquamarine,L,254,Leucanthemum maximum (Ramond) DC.,Drugs,2021-01-29 11:54:21,2021-10-06 14:21:42
+1164,Naloxone Hydrochloride,Naloxone Hydrochloride,280.42,Teal,S,153,Horsfordia alata (S. Watson) A. Gray,Drugs,2020-12-01 20:22:08,2021-04-21 12:48:46
+1165,Ethyl Alcolhol,Body Luxuries Waterless Hand Sanitizer,273.49,Aquamarine,L,66,Philadelphus sharpianus Hu,Drugs,2020-12-07 07:38:20,2021-06-26 16:46:55
+1166,Alprazolam,Alprazolam,16.02,Pink,2XL,237,Nicotiana glauca Graham,Drugs,2021-02-12 14:11:24,2021-08-18 09:37:26
+1167,Meclizine HCl,Motion Sickness II,253.38,Yellow,3XL,230,Arabis breweri S. Watson var. pecuniaria Rollins,Drugs,2021-01-23 09:16:16,2021-11-06 19:41:02
+1168,Temozolomide,Temozolomide,67.51,Maroon,S,234,Ocellularia americana Hale,Drugs,2020-12-29 05:36:31,2021-04-23 14:18:29
+1169,PROGESTERONE,PROGESTERONE,42.94,Violet,XS,126,Viburnum obovatum Walter,Drugs,2021-02-19 17:07:03,2021-11-02 07:18:48
+1170,Diclofenac Epolamine,Flector,247.18,Pink,XL,152,Salix glauca L. ssp. glauca var. glauca,Drugs,2020-12-02 16:29:22,2021-05-31 10:24:19
+1171,lisinopril,lisinopril,69.78,Puce,M,224,Vangueria madagascariensis J.F. Gmel.,Drugs,2020-12-07 03:50:23,2021-10-23 01:21:51
+1172,Tolnaftate,Tinactin,148.48,Mauv,2XL,217,Hypotrachyna subsaxatilis (de Lesd.) Hale,Drugs,2020-11-24 04:10:13,2021-10-03 09:17:50
+1173,Cows Milk,Cows Milk,122.94,Blue,M,261,Candelariella Müll. Arg.,Drugs,2021-02-27 05:15:42,2021-10-19 16:12:51
+1174,Sennosides and Docusate Sodium,Senna Plus,106.63,Yellow,2XL,124,Cladina stellaris (Opiz) Brodo var. aberrans (Abbayes) Ahti,Drugs,2020-12-27 12:16:59,2021-04-21 22:12:09
+1175,Midazolam HCl,Midazolam HCl,170.22,Khaki,S,296,Bifora radians M. Bieb.,Drugs,2020-11-25 06:25:10,2021-11-01 21:59:12
+1176,Magnesium hydroxide,leader milk of magnesia,143.04,Puce,M,80,Janusia A. Juss.,Drugs,2021-01-27 15:30:23,2021-10-19 04:10:41
+1177,Gl. Supra Gl. Thyr Hypophysis 6 Special Order,Gl. Supra Gl. Thyr Hypophysis 6 Special Order,112.73,Maroon,XL,232,Viola chamissoniana Gingins ssp. chamissoniana,Drugs,2020-11-11 00:21:00,2021-06-23 10:21:04
+1178,"EUCALYPTOL, MENTHOL, METHYL SALICYLATE, THYMOL",SMART SENSE,228.35,Crimson,M,231,Pedicularis oederi Vahl ex Hornem.,Drugs,2020-11-13 16:08:50,2021-09-25 07:47:53
+1179,Econazole Nitrate,Econazole Nitrate,28.56,Aquamarine,L,183,Gaylussacia Kunth,Drugs,2020-12-14 07:10:03,2021-06-08 08:46:26
+1180,TRICLOSAN,Exuviance Moisturizing Antibacterial Facial Cleanser,121.6,Green,2XL,90,Galium obtusum Bigelow ssp. australe Puff,Drugs,2020-12-12 12:56:06,2021-06-11 04:07:38
+1181,"SULFACETAMIDE SODIUM, SULFUR","Sodium Sulfacetamide, Sulfur",189.26,Khaki,XS,179,Cordylanthus pilosus A. Gray ssp. trifidus (B.L. Rob. & Greenm.) T.I. Chuang & Heckard,Drugs,2021-01-08 00:12:44,2021-03-06 00:37:32
+1182,diflorasone diacetate,ApexiCon E,27.16,Goldenrod,3XL,163,Chaerophyllum L.,Drugs,2020-11-24 04:41:17,2021-03-23 21:37:45
+1183,DEXTROSE MONOHYDRATE and SODIUM CHLORIDE,Dextrose and Sodium Chloride,168.37,Purple,2XL,150,Cosmos Cav.,Drugs,2020-12-14 11:51:40,2021-10-02 13:13:33
+1184,SODIUM FLUORIDE,Phos-Flur Ortho Defense,33.41,Pink,3XL,129,Iris tectorum Maxim.,Drugs,2020-11-22 05:31:07,2021-04-24 22:05:42
+1185,ALUMINUM SESQUICHLOROHYDRATE,FRAICHEUR THE VERT ANTIPERSPIRANT AND DEODORANT ROLL-ON,191.46,Indigo,2XL,250,Tabebuia Gomes ex DC.,Drugs,2021-02-02 16:41:44,2021-08-17 18:31:54
+1186,Ibuprofen,Ibuprofen,226.15,Green,XL,140,Scadoxus multiflorus (Martyn) Raf. ssp. katherinae (Baker) Friis & Nordal,Drugs,2020-11-20 14:39:35,2021-06-09 07:44:51
+1187,Bald Cypress,Bald Cypress,249.7,Turquoise,2XL,170,Pneumatopteris sandwicensis (Brack.) Holttum,Drugs,2021-01-05 02:09:49,2021-07-15 14:23:37
+1188,"Menthol, Methyl Salicylate",HYSAN HUA TUO MEDICATED PLASTER,226.3,Yellow,XL,125,Lyrocarpa coulteri Hook. & Harv. ex Harv. var. palmeri (S. Watson) Rollins,Drugs,2021-01-19 11:02:28,2021-08-11 03:27:46
+1189,White Petrolatum,Petroleum,229.68,Aquamarine,XL,170,Gilia capitata Sims ssp. pedemontana V.E. Grant,Drugs,2021-02-02 21:51:19,2021-06-17 15:24:55
+1190,Loratadine,Loratadine ODT,232.45,Teal,S,118,Physaria floribunda Rydb. var. floribunda,Drugs,2021-01-24 23:11:36,2021-07-12 16:48:11
+1191,TITANIUM DIOXIDE,Super Restorative Foundation True Lift SPF 15 Tint 06,133.72,Fuscia,L,241,Vetiveria zizanioides (L.) Nash,Drugs,2020-12-08 01:42:01,2021-08-13 13:25:09
+1192,"acetaminophen, dextromethorphan hydrobromide, Guaifenesin, phenylephrine hydrochloride",Daytime Severe Cold and Flu,94.61,Blue,XL,145,Hypnum cupressiforme Hedw. var. resupinatum (Taylor) Schimp.,Drugs,2021-01-02 05:34:08,2021-08-22 23:35:32
+1193,"Titanium Dioxide, Zinc Oxide",Dr.Jart Renewalist BB,161.74,Teal,XL,285,Artemisia australis Less.,Drugs,2020-12-05 03:42:31,2021-10-31 22:42:19
+1194,Mometasone Furoate,Mometasone Furoate,12.61,Orange,S,266,Pseudognaphalium helleri (Britton) Anderb. ssp. micradenium (Weath.) Kartesz,Drugs,2020-11-08 00:55:38,2021-07-08 18:30:38
+1195,clindamycin palmitate hydrochloride,Cleocin Pediatric,271.67,Maroon,XS,243,Clarkia borealis E. Small ssp. arida E. Small,Drugs,2021-02-04 19:27:56,2021-04-14 07:43:59
+1196,ETHYL ALCOHOL,Justice Cotton Candy Scent ANTI BAC HAND SANITIZER,252.5,Fuscia,M,215,Bryonora Poelt,Drugs,2020-11-10 10:27:10,2021-07-20 21:56:30
+1197,IRBESARTAN,AVAPRO,259.31,Aquamarine,XL,134,Lupinus argenteus Pursh ssp. argenteus var. laxiflorus (Douglas ex Lindl.) Dorn,Drugs,2020-12-10 06:44:21,2021-04-21 05:53:21
+1198,Pyrithione zinc,Dandruff,166.3,Indigo,S,61,Coronilla valentina L.,Drugs,2021-01-27 07:02:18,2021-05-22 12:23:51
+1199,Treatment Set TS351142,Treatment Set TS351142,199.17,Blue,3XL,179,Aristida refracta Griseb.,Drugs,2020-12-08 20:33:04,2021-09-30 13:09:57
+1200,"Dextrose Monohydrate, Sodium Chloride, Sodium Lactate, Calcium Chloride, Magnesium Chloride",DELFLEX,69.03,Mauv,XS,149,Vitex negundo L.,Drugs,2021-01-09 22:40:31,2021-08-04 19:18:25
+1201,White petrolatum,Creamy Petroleum,87.82,Yellow,M,100,Galinsoga urticifolia (Kunth) Benth.,Drugs,2020-12-24 06:59:01,2021-06-07 17:38:44
+1202,PENICILLIN G,PENICILLIN G POTASSIUM,15.28,Mauv,3XL,290,Plagiobothrys torreyi (A. Gray) A. Gray var. diffusus (Greene) I.M. Johnst.,Drugs,2021-01-08 18:54:44,2021-04-14 21:00:28
+1203,CALCITONIN SALMON,CALCITONIN SALMON,171.0,Green,XS,167,Astragalus curvicarpus (A. Heller) J.F. Macbr.,Drugs,2020-12-25 08:41:19,2021-09-16 22:27:19
+1204,"Acetaminophen, Dextromethorphan HBr, Doxylamine succinate",health mart night time,224.86,Crimson,L,154,Struchium sparganophorum (L.) Kuntze,Drugs,2021-01-12 20:24:19,2021-06-04 09:55:35
+1205,naproxen,Naprosyn,279.69,Blue,M,112,Lepidium flavum Torr. var. flavum,Drugs,2020-11-19 04:50:13,2021-06-29 08:27:56
+1206,Oxygen,Oxygen,35.2,Red,S,256,Florestina Cass.,Drugs,2020-12-14 00:10:12,2021-04-07 03:02:52
+1207,Red Mulberry,Red Mulberry,90.03,Turquoise,XL,244,Poa marcida Hitchc.,Drugs,2021-01-02 06:00:59,2021-08-01 12:28:29
+1208,Cetirizine HCl,All Day Allergy Relief,155.06,Orange,XS,55,Lupinus breweri A. Gray var. breweri,Drugs,2020-11-28 22:57:15,2021-05-01 08:20:22
+1209,AZTREONAM,AZACTAM,173.24,Blue,XS,156,Citrullus lanatus (Thunb.) Matsum. & Nakai var. citroides (L.H. Bailey) Mansf.,Drugs,2021-02-21 22:40:54,2021-06-09 13:10:18
+1210,Levothyroxine Sodium,Synthroid,47.46,Yellow,2XL,133,Trichophorum clementis (M.E. Jones) S.G. Sm.,Drugs,2021-02-23 23:26:11,2021-06-01 00:00:19
+1211,Atenolol,Atenolol,57.46,Mauv,XS,279,Arabis platysperma A. Gray,Drugs,2020-11-16 03:57:07,2021-07-22 13:52:26
+1212,Enalapril maleate and hydrochlorothiazide,Enalapril maleate and hydrochlorothiazide,271.61,Crimson,M,141,Alstonia R. Br.,Drugs,2021-01-04 12:21:22,2021-10-07 19:23:30
+1213,omeprazole,Omeprazole,14.25,Purple,M,154,Cirsium crassicaule (Greene) Jeps.,Drugs,2021-01-15 09:58:43,2021-06-14 20:44:41
+1214,TITANIUM DIOXIDE,DOUBLE PERFECTION LUMIERE,262.17,Yellow,XS,187,Erigeron untermannii S.L. Welsh & Goodrich,Drugs,2021-02-17 15:32:12,2021-08-27 16:14:09
+1215,DOCUSATE SODIUM,Stool Softener,206.51,Purple,L,163,Buellia placodiomorpha Vain.,Drugs,2021-02-12 15:14:04,2021-04-27 20:16:45
+1216,Gelsemium Bryonia,Gelsemium Bryonia,128.39,Green,2XL,239,Leptogium floridanum Sierk,Drugs,2020-12-10 17:50:04,2021-09-04 07:42:53
+1217,clarithromycin,Clarithromycin,77.05,Blue,M,176,Arthonia eckfeldtii Müll. Arg.,Drugs,2020-11-20 13:14:08,2021-04-02 01:54:00
+1218,"Acetaminophen, Dextromethorphan HBr, Doxylamine succinate, Phenylephrine HCl",DayTime NightTime Cold and Flu,248.76,Puce,3XL,212,Dendrophthora Eichl.,Drugs,2021-01-16 05:08:23,2021-03-29 03:16:26
+1219,Ibuprofen,ShopRite Infants Ibuprofen,178.03,Mauv,M,205,Eriogonum umbellatum Torr. var. vernum Reveal,Drugs,2020-12-14 01:07:31,2021-06-04 12:21:23
+1220,HYDROQUINONE,Topiclear Paris,88.59,Violet,M,241,Astragalus mohavensis S. Watson var. hemigyrus (Clokey) Barneby,Drugs,2021-01-27 20:46:58,2021-07-21 17:01:04
+1221,Acetaminophen and Phenylephrine HCl,Non-Drowsy Sinus Daytime,165.22,Maroon,2XL,144,Sphagnum aongstroemii Hartm.,Drugs,2020-12-09 15:15:14,2021-08-13 07:58:16
+1222,Bisacodyl,Bisacodyl,221.25,Puce,XL,181,Lecania californica (Zahlbr.) Fink,Drugs,2020-11-08 16:46:16,2021-06-16 16:20:07
+1223,"dextromethorphan hbr, guaifenesin, phenylephrine hcl",Tussin CF Max,59.6,Teal,3XL,278,Lecidea louisianae de Lesd.,Drugs,2021-01-29 21:17:40,2021-10-29 06:59:00
+1224,Levothyroxine Sodium,Levothyroxine Sodium,226.82,Violet,L,131,Ulota phyllantha Brid.,Drugs,2020-11-07 15:22:46,2021-04-10 09:18:50
+1225,Olanzapine,Olanzapine,223.82,Maroon,M,199,Scleria muehlenbergii Steud.,Drugs,2020-12-25 08:04:14,2021-10-03 20:58:31
+1226,hypromellose,GenTeal,272.89,Maroon,L,140,Centaurea cineraria L.,Drugs,2021-01-01 00:46:54,2021-05-29 17:22:47
+1227,Chlorthalidone,Chlorthalidone,147.67,Yellow,L,160,Eryngium armatum (S. Watson) J.M. Coult. & Rose,Drugs,2020-12-26 00:14:59,2021-08-19 15:37:45
+1228,"Ferrum phos, Mentha pip, Nat mur, Nat phos, Nux vom, Zingiber",Good Morning Mama,164.07,Yellow,L,232,Hymenopappus tenuifolius Pursh,Drugs,2020-12-30 17:52:00,2021-11-06 13:49:15
+1229,orlistat,ALLI,118.26,Purple,S,105,Psoralidium tenuiflorum (Pursh) Rydb.,Drugs,2021-02-18 22:42:34,2021-09-27 18:27:44
+1230,Influenza Vaccine Live Intranasal,FluMist Quadrivalent,193.76,Aquamarine,2XL,70,Coleanthus Seidel,Drugs,2021-02-05 21:34:31,2021-08-14 15:07:15
+1231,"phenylephrine hcl, brompheniramine maleate",wal tap elixir,277.78,Green,2XL,93,Chrysactinia mexicana A. Gray,Drugs,2021-01-12 11:15:35,2021-11-06 20:48:20
+1232,Methocarbamol,Methocarbamol,154.31,Maroon,3XL,208,Houstonia purpurea L. var. calycosa A. Gray,Drugs,2020-11-10 13:51:07,2021-07-18 06:12:09
+1233,Dog Hair,Dog Hair,11.7,Yellow,3XL,133,Plantago elongata Pursh ssp. elongata,Drugs,2020-11-20 01:22:00,2021-09-18 14:53:14
+1234,"Kali sulph , Nat sulphuricum , Calc phos , Lactose",Triple Complex Diabetonic,73.47,Indigo,S,156,Physalis heterophylla Nees var. heterophylla,Drugs,2021-02-02 22:04:03,2021-05-05 08:57:25
+1235,Sodium Fluoride,Plak Smacker,283.87,Fuscia,M,72,Sideroxylon lanuginosum Michx. ssp. albicans (Sarg.) Kartesz & Gandhi,Drugs,2021-02-13 21:11:17,2021-08-03 22:12:21
+1236,Licorice,Licorice,268.4,Puce,XS,105,Hassea bacillosa (Nyl.) Zahlbr.,Drugs,2020-11-10 12:13:23,2021-07-01 07:36:26
+1237,pantoprazole sodium,Pantoprazole Sodium,245.85,Crimson,3XL,283,Quercus lyrata Walter,Drugs,2020-11-19 12:05:49,2021-08-15 23:11:28
+1238,Propranolol Hydrochloride,Propranolol Hydrochloride,83.12,Crimson,S,60,Securigera securidaca (L.) O. Deg. & Dorf.,Drugs,2021-01-09 05:40:10,2021-06-11 01:27:24
+1239,Hydrocortisone,Hydrocortisone,292.4,Khaki,M,279,Sclerophora Chevall.,Drugs,2021-02-22 19:49:32,2021-05-12 08:25:36
+1240,TRICLOSAN,ANTIBACTERIAL FOAMING,272.25,Pink,XL,266,Diamorpha smallii Britton ex Small,Drugs,2020-11-27 01:35:51,2021-08-08 01:59:35
+1241,venlafaxine hydrochloride,Venlafaxine Hydrochloride,225.71,Teal,3XL,120,Rhynchospora harperi Small,Drugs,2021-01-07 19:20:34,2021-04-03 15:26:01
+1242,"AVOBENZONE, OCTOCRYLENE, OXYBENZONE",Banana Boat,92.69,Purple,XS,211,Omphalora arizonica (Tuck. ex Willey) T. Nash & Hafellner,Drugs,2020-12-20 13:02:13,2021-07-11 03:24:22
+1243,PHENAZOPYRIDINE HYDROCHLORIDE,Skopko Urinary Pain Relief,267.12,Green,XS,153,Paxistima Raf.,Drugs,2020-11-27 03:48:04,2021-06-15 15:30:37
+1244,Zinc Oxide,SUN Solar Defense Oil-free SPF 30,170.79,Red,S,70,Sphagnum flexuosum Dozy & Molk. var. ramosissimum R.E. Andrus,Drugs,2021-01-21 16:56:15,2021-05-02 11:53:47
+1245,Phendimetrazine Tartrate,Bontril PDM,246.43,Mauv,3XL,222,Dicerandra densiflora Benth.,Drugs,2021-01-26 07:46:45,2021-04-24 20:39:00
+1246,Miconazole Nitrate,White Tetterine,134.84,Yellow,L,188,Phlyctella Krempelh.,Drugs,2020-11-23 14:57:54,2021-09-26 11:02:39
+1247,Loratadine,Loratadine,161.55,Yellow,3XL,250,Platydesma cornuta Hillebr. var. cornuta,Drugs,2021-01-15 03:34:23,2021-06-02 10:08:42
+1248,Olive Oil and Soybean Oil,Clinolipid,78.82,Red,S,80,Agrostis curtisii Kerguelen,Drugs,2020-12-31 05:25:15,2021-08-20 20:33:25
+1249,Zinc Gluconate,Cold-EEZE,274.13,Blue,3XL,114,Ilex paraguariensis A. St.-Hil.,Drugs,2021-02-19 11:40:12,2021-09-03 05:41:08
+1250,TOLNAFTATE,Barielle Professional Maximum Strength Fungus Rx Antifungal PRO,231.92,Maroon,XL,221,Panicum stenodes Griseb.,Drugs,2021-02-05 23:05:07,2021-07-18 00:08:07
+1251,Diphenhydramine Hydrochloride,Diphenhydramine Hydrochloride,70.37,Green,S,65,Quercus macrocarpa Michx.,Drugs,2021-02-01 16:36:11,2021-08-06 15:25:50
+1252,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,118.26,Goldenrod,XL,249,Juncus ×stuckeyi Reinking,Drugs,2020-11-22 13:18:15,2021-09-11 13:15:16
+1253,lidocaine,LIDODERM,287.38,Violet,2XL,97,Oenothera kunthiana (Spach) Munz,Drugs,2020-11-10 10:50:49,2021-06-12 09:05:38
+1254,Risperidone,Risperidone,67.72,Teal,XS,292,Yucca baileyi Wooton & Standl.,Drugs,2020-11-21 21:37:02,2021-11-02 11:14:48
+1255,PredniSONE,PredniSONE,79.89,Maroon,3XL,248,Cyanea mceldowneyi Rock,Drugs,2021-01-08 13:33:06,2021-09-05 02:51:20
+1256,Technetium Tc99m Generator,TechneLite,127.23,Maroon,2XL,101,Aristida longespica Poir. var. geniculata (Raf.) Fernald,Drugs,2020-12-02 13:12:57,2021-10-11 04:39:54
+1257,Olanzapine,Olanzapine,61.24,Khaki,2XL,61,Mertensia macdougalii A. Heller,Drugs,2020-12-25 20:26:49,2021-04-11 01:58:44
+1258,Ketoprofen,Ketoprofen,296.97,Violet,M,169,Eremopyrum bonaepartis (Spreng.) Nevski,Drugs,2021-02-12 13:08:29,2021-09-03 13:54:59
+1259,guanfacine hydrochloride,TENEX,10.91,Turquoise,2XL,180,Lewisia leeana (Porter) B.L. Rob.,Drugs,2021-02-08 06:47:09,2021-07-31 16:37:14
+1260,"Echinacea, Tabebuia Impetiginosa, Abies Nigra, Lycopodium Clavatum, Nux Vomica, Phosporus, Pulsatilla",Fungustat,232.62,Fuscia,3XL,139,Carex rupestris All. var. drummondiana (Dewey) L.H. Bailey,Drugs,2020-11-26 23:25:23,2021-09-17 10:30:06
+1261,Pamidronate Disodium,Pamidronate Disodium,156.42,Violet,S,212,Kirschsteiniothelia D. Hawksw.,Drugs,2020-12-08 19:26:40,2021-08-18 12:32:40
+1262,Albuterol Sulfate,Albuterol Sulfate,217.4,Blue,S,117,Aspicilia sorediza (Lynge) J.W. Thomson,Drugs,2020-11-19 21:38:00,2021-09-25 09:01:10
+1263,ALCOHOL,Stat-Foam,88.23,Turquoise,2XL,215,Spergula L.,Drugs,2021-01-19 07:58:42,2021-10-23 14:46:58
+1264,Nicotine Polacrilex,"Rugby Nicotine Polacrilex Gum, Coated Cinnamon Flavor",168.58,Mauv,M,150,Senecio warnockii Shinners,Drugs,2021-01-27 22:21:22,2021-06-19 23:19:29
+1265,not applicable,Bio Viscum Compositum,62.31,Blue,2XL,164,Lathyrus grimesii Barneby,Drugs,2020-12-24 06:09:39,2021-06-11 21:02:50
+1266,Ranitidine,Acid Reducer Regular Strength,27.75,Maroon,XL,132,Ligusticum californicum J.M. Coult. & Rose,Drugs,2021-02-05 04:10:49,2021-10-19 16:30:52
+1267,TABACUM,TABACUM,14.74,Turquoise,2XL,207,Hymenopappus scabiosaeus L'Hér. var. corymbosus (Torr. & A. Gray) B.L. Turner,Drugs,2021-01-24 20:48:37,2021-03-11 23:41:37
+1268,losartan potassium,COZAAR,63.11,Goldenrod,XS,140,Rubus vitifolius Cham. & Schltdl. var. vitifolius,Drugs,2020-11-08 19:55:32,2021-06-12 17:11:21
+1269,Carbidopa and Levodopa,CARBIDOPA AND LEVODOPA,170.07,Aquamarine,XS,148,Commiphora Jacq.,Drugs,2021-01-21 15:53:09,2021-05-10 05:32:49
+1270,"OCTINOXATE, TITANIUM DIOXIDE",MATCHMASTER FOUNDATION,168.6,Aquamarine,S,100,Brickellia cordifolia Elliott,Drugs,2021-02-22 19:17:33,2021-08-12 10:27:41
+1271,Titanium Dioxide and Zinc Oxide,BareMinerals Warm Tan,96.08,Crimson,M,253,Rubus aptatus L.H. Bailey,Drugs,2020-12-24 15:12:52,2021-06-26 23:53:13
+1272,levocarnitine,Carnitor,133.22,Red,XL,68,Loiseleuria procumbens (L.) Desv.,Drugs,2021-01-25 01:38:03,2021-05-30 12:00:58
+1273,DIAZEPAM,Diazepam,95.56,Crimson,M,139,Draba paysonii J.F. Macbr.,Drugs,2020-11-16 16:43:48,2021-06-28 00:41:28
+1274,spironolactone,Spironolactone,191.31,Yellow,2XL,79,Lilium humboldtii Roezl & Leichtlin ex Duch. ssp. humboldtii,Drugs,2021-02-07 04:19:18,2021-10-23 17:38:14
+1275,ACETAMINOPHEN,ACETAMINOPHEN,158.51,Red,M,254,Tetragastris balsamifera (Sw.) Oken,Drugs,2021-02-05 00:20:41,2021-07-13 00:29:57
+1276,"Cetirizine HCl, Pseudoephedrine HCl",Cetirizine Hydrochloride and Pseudoephedrine Hydrochloride,288.06,Aquamarine,2XL,84,Poa arctica R. Br. ssp. caespitans Simmons ex Nannf.,Drugs,2020-12-02 13:01:24,2021-09-27 14:39:16
+1277,Robitussin Sugar Free Cough,Tussin Sugar Free Cough,252.26,Blue,XS,288,Physaria lepidota Rollins var. lepidota,Drugs,2021-02-21 14:53:30,2021-07-31 04:06:56
+1278,Heparin Sodium and Dextrose,Heparin Sodium in Dextrose,256.41,Puce,2XL,232,Zigadenus exaltatus Eastw.,Drugs,2021-01-31 19:52:41,2021-03-23 05:25:56
+1279,"CHLORPHENIRAMINE MALEATE, DEXTROMETHORPHAN HYDROBROMIDE, PHENYLEPHRINE HYDROCHLORIDE",BIO-RYTUSS,166.62,Aquamarine,2XL,155,Dryopteris filix-mas (L.) Schott,Drugs,2020-11-23 18:44:00,2021-03-08 05:49:14
+1280,Hydroxyzine Hydrochloride,Hydroxyzine Hydrochloride,122.56,Fuscia,S,66,Camissonia heterochroma (S. Watson) P.H. Raven,Drugs,2021-02-28 06:40:32,2021-09-01 07:40:10
+1281,POVIDONE-IODINE,Good Care Surgical Brush With Nail Cleaner,132.35,Fuscia,L,264,Tylophoron Nyl. ex Stizenb.,Drugs,2021-01-04 20:52:01,2021-08-27 19:13:06
+1282,nicardipine hydrochloride,Cardene I.V.,155.85,Puce,XL,144,Agalinis aphylla (Nutt.) Raf.,Drugs,2020-12-09 13:44:11,2021-06-12 00:09:29
+1283,Diltiazem Hydrochloride,Diltiazem Hydrochloride,139.87,Violet,L,298,Eriophyllum mohavense (I.M. Johnst.) Jeps.,Drugs,2020-12-13 18:08:43,2021-07-03 11:25:43
+1284,Antifungal Pen,Maximum Strength,97.03,Yellow,XL,74,Charpentiera Gaudich.,Drugs,2021-02-05 17:54:47,2021-03-02 06:07:26
+1285,Minocycline Hydrochloride,DYNACIN,53.63,Maroon,2XL,240,Astragalus argophyllus Nutt. var. panguicensis (M.E. Jones) M.E. Jones,Drugs,2021-01-09 11:26:47,2021-04-29 11:18:24
+1286,"itanium dioxide, Octinoxate, Octisalate, Zinc Oxide",IPKN HYDRO AND PORE BB 01 LIGHT,140.21,Blue,S,252,Oonopsis (Nutt.) Greene,Drugs,2020-11-19 07:37:42,2021-10-11 07:01:07
+1287,"Avobenzone, Octisalate, Octocrylene, and Oxybenzone",ESIKA,153.62,Blue,XL,95,Bauhinia esculenta Burch.,Drugs,2021-01-01 07:32:16,2021-04-15 12:56:11
+1288,"Acetaminophen, Dextromethorphan HBr, Phenylephrine HCl",Topcare Day time cold and flu relief,297.37,Mauv,S,166,Erigeron glabellus Nutt. var. glabellus,Drugs,2021-01-12 22:00:33,2021-07-09 07:49:13
+1289,Triclosan,Antibacterial Hand,37.19,Aquamarine,2XL,197,Acanthomintha (A. Gray) A. Gray,Drugs,2021-01-20 11:26:48,2021-04-07 23:12:21
+1290,methazolamide,METHAZOLAMIDE,222.65,Orange,3XL,148,Achillea alpina L.,Drugs,2020-12-11 19:03:35,2021-10-03 05:32:25
+1291,Ibuprofen,Ibuprofen,45.12,Mauv,3XL,147,Hymenophyllum Sm.,Drugs,2020-12-04 15:41:45,2021-03-04 17:38:04
+1292,Glimepiride,Glimepiride,253.47,Yellow,3XL,210,Eupatorium triplinerve Vahl,Drugs,2021-02-27 15:01:09,2021-05-07 00:06:27
+1293,"OCTOCRYLENE, TITANIUM DIOXIDE, ZINC OXIDE",GolfersSkin Face Sunscreen,21.3,Aquamarine,M,162,Silene petersonii Maguire var. petersonii,Drugs,2020-12-27 14:58:51,2021-07-18 19:16:19
+1294,CARBIDOPA AND LEVODOPA,CARBIDOPA AND LEVODOPA,285.81,Turquoise,XL,91,Cochlidium Kaulf.,Drugs,2020-11-20 07:55:12,2021-08-02 00:30:52
+1295,"SULFACETAMIDE SODIUM, SULFUR","Sodium Sulfacetamide, Sulfur",285.5,Mauv,XS,150,Pohlia pacifica Shaw,Drugs,2020-12-06 22:56:31,2021-09-19 07:37:41
+1296,Dextroamphetamine Sulfate,Dextroamphetamine Sulfate,38.99,Turquoise,M,289,Ipomoea hederifolia L.,Drugs,2020-12-27 13:12:47,2021-08-20 08:10:43
+1297,Ibuprofen,Ibuprofen,31.65,Goldenrod,S,104,Isoetes mattaponica L.J. Musselman,Drugs,2021-01-01 08:23:08,2021-06-25 19:07:27
+1298,Hydrochlorothiazide,Hydrochlorothiazide,59.37,Goldenrod,L,65,Astragalus zionis M.E. Jones var. zionis,Drugs,2021-02-25 10:22:49,2021-05-14 11:32:35
+1299,Fosinopril Sodium and Hydrochlorothiazide,Fosinopril Sodium and Hydrochlorothiazide,227.24,Purple,XL,251,Trapeliopsis pseudogranulosa Coppins & P. James,Drugs,2021-01-14 10:47:06,2021-04-19 19:33:18
+1300,"Holly,",Bio Holly,199.12,Maroon,XS,59,Oxalis rubra A. St.-Hil.,Drugs,2020-11-28 14:17:38,2021-11-04 22:33:26
+1301,dextroamphetamine sulfate,Dextroamphetamine Sulfate,206.81,Purple,2XL,292,Medeola virginiana L.,Drugs,2020-12-29 12:49:59,2021-05-25 16:25:43
+1302,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,212.06,Turquoise,S,57,Rubus alumnus L.H. Bailey,Drugs,2020-11-10 11:20:04,2021-04-09 12:45:36
+1303,pravastatin sodium,pravastatin sodium,54.99,Puce,3XL,264,Phlox richardsonii Hook.,Drugs,2020-11-19 13:50:25,2021-05-13 02:24:06
+1304,Vecuronium Bromide,Vecuronium Bromide,256.7,Indigo,XS,220,Artocarpus altilis (Parkinson) Fosberg,Drugs,2020-12-06 11:22:18,2021-06-02 21:20:45
+1305,BENZALKONIUM CHLORIDE,Zaliex Alcohol-Free Antiseptic Hand Sanitizer,282.02,Maroon,2XL,293,Symphyotrichum bracei (Britton ex Small) G.L. Nesom,Drugs,2020-11-18 19:34:41,2021-08-05 19:17:33
+1306,Alcohol,Cucumber Melon Scented Hand Sanitizer,60.24,Maroon,S,141,Alvaradoa amorphoides Liebm. ssp. psilophyllis (Urb.) Cronquist,Drugs,2020-12-27 20:12:48,2021-04-10 11:01:34
+1307,"Octinoxate, Oxybenzone, Avobenzene, Octocrylene",Glytone Body,15.05,Fuscia,2XL,195,Viola adunca Sm. var. oxyceras (S. Watson) S. Watson ex Jeps.,Drugs,2020-11-20 10:05:42,2021-09-20 00:21:11
+1308,Acyclovir,Acyclovir,189.39,Maroon,L,58,Pritchardia waialealeana Read,Drugs,2020-11-24 05:02:13,2021-06-18 19:09:09
+1309,Ciprofloxacin,Ciprofloxacin,224.54,Khaki,XL,208,Reynosia guama Urb.,Drugs,2021-02-01 04:17:14,2021-10-31 07:54:11
+1310,Glycerin,SUPER AQUA MAX WHITE C CRYSTAL ESSENCE,75.73,Violet,3XL,202,Pachystachys spicata (Ruiz & Pav.) Wassh.,Drugs,2020-11-17 17:40:51,2021-03-08 13:18:51
+1311,Gemfibrozil,Gemfibrozil,190.39,Aquamarine,XL,110,Eucalyptus amplifolia Naudin,Drugs,2020-12-19 09:31:13,2021-03-31 01:35:12
+1312,Metformin Hydrochloride,Metformin Hydrochloride,291.62,Goldenrod,XS,208,Sambucus ebulus L.,Drugs,2020-11-16 10:45:05,2021-09-21 11:10:29
+1313,amitriptyline hydrochloride,Amitriptyline Hydrochloride,243.4,Pink,XS,199,Carex laxiflora Lam. var. laxiflora,Drugs,2021-01-01 02:10:59,2021-06-03 14:18:10
+1314,PYRITHIONE ZINC,Fresh Mint Dandruff,230.87,Purple,3XL,131,Lupinus westianus Small var. westianus,Drugs,2020-11-12 16:42:01,2021-07-14 06:55:18
+1315,Lisinopril,Lisinopril,107.8,Puce,2XL,209,Liatris ligulistylis (A. Nelson) K. Schum.,Drugs,2020-11-20 08:40:36,2021-06-20 03:01:34
+1316,varenicline tartrate,CHANTIX,99.23,Aquamarine,L,187,Rhodotypos scandens (Thunb.) Makino,Drugs,2021-02-12 01:48:57,2021-10-31 09:23:42
+1317,MENTHOL,NUMOTIZINE,288.59,Aquamarine,S,102,Pieris floribunda (Pursh) Benth. & Hook. f.,Drugs,2020-12-07 18:40:22,2021-05-28 02:09:30
+1318,Polyethylene Glycol 3350,Polyethylene Glycol 3350,277.04,Crimson,XS,293,Phacelia campanularia A. Gray ssp. vasiformis G.W. Gillett,Drugs,2021-02-22 05:05:08,2021-06-23 01:43:27
+1319,Hydroxyzine Hydrochloride,Hydroxyzine Hydrochloride,80.49,Goldenrod,S,169,Prosopis L.,Drugs,2020-12-02 22:46:40,2021-05-06 03:43:18
+1320,sulfamethoxazole and trimethoprim,Sulfamethoxazole and Trimethoprim,294.89,Maroon,3XL,98,Clarkia mosquinii E. Small,Drugs,2021-01-03 16:10:21,2021-07-01 04:53:39
+1321,BENZALKONIUM CHLORIDE,pre fense,206.32,Purple,3XL,212,Verrucaria funckii (Spreng.) Zahlbr.,Drugs,2020-12-23 08:54:26,2021-05-14 05:35:25
+1322,"AVOBENZONE, OCTISALATE, HOMOSALATE, OCTOCRYLENE",CARMEX Lime twist BROAD SPECTRUM SPF 15 SUNSCREEN,79.46,Blue,XS,207,Castilleja applegatei Fernald ssp. pinetorum (Fernald) T.I. Chuang & Heckard,Drugs,2020-11-12 03:34:02,2021-08-26 00:51:45
+1323,ACETAMINOPHEN and DIPHENHYDRAMINE HYDROCHLORIDE,"Acetaminophen, Diphenhydramine Hydrochloride",135.67,Crimson,L,231,Stachytarpheta ×hybrida Moldenke,Drugs,2020-12-01 02:07:18,2021-04-27 04:39:09
+1324,Cefuroxime Axetil,Cefuroxime Axetil,237.38,Violet,XS,125,Echinops sphaerocephalus L.,Drugs,2020-12-08 09:19:30,2021-09-22 21:48:50
+1325,Salicylic acid,Phisoderm Clear Confidence Face Scrub,235.1,Fuscia,L,263,Bryohaplocladium R. Watan. & Z. Iwats.,Drugs,2021-01-08 08:57:48,2021-03-09 19:32:38
+1326,Simvastatin,Simvastatin,182.96,Purple,3XL,217,Artemisia michauxiana Besser,Drugs,2020-12-25 08:24:00,2021-09-24 13:25:39
+1327,Benzocaine and Menthol,Cepacol,21.94,Mauv,3XL,96,Rubus arvensis L.H. Bailey,Drugs,2021-02-18 22:42:40,2021-09-26 16:00:02
+1328,Lovastatin,Lovastatin,97.29,Violet,3XL,75,Phyllostegia parviflora (Gaudich.) Benth. var. lydgatei (Sherff) W.L. Wagner,Drugs,2021-01-29 20:43:19,2021-10-17 01:39:23
+1329,Benzocaine,Gelato Topical Anesthetic,156.48,Indigo,3XL,77,Quercus prinoides Willd.,Drugs,2021-02-23 05:50:13,2021-03-17 14:37:33
+1330,Apis ex animale 4 Special Order,Apis ex animale 4 Special Order,109.91,Pink,2XL,93,Balsamorhiza hookeri (Hook.) Nutt. var. neglecta (Sharp) Cronquist,Drugs,2021-01-30 09:01:36,2021-08-27 07:51:32
+1331,Citalopram,Citalopram,23.92,Maroon,3XL,210,Ceanothus cuneatus (Hook.) Nutt. var. rigidus (Nutt.) Hoover,Drugs,2021-02-18 03:46:21,2021-05-22 04:16:55
+1332,Sodium chloride,Aqua Maris Isotonised,32.1,Teal,M,295,Clintonia andrewsiana Torr.,Drugs,2021-01-22 09:26:54,2021-04-24 22:18:53
+1333,Methocarbamol,Methocarbamol,40.91,Blue,XL,72,Fissidens fontanus (B. Pyl.) Steud.,Drugs,2021-02-25 07:54:34,2021-06-16 10:43:21
+1334,Pravastatin Sodium,Pravastatin Sodium,272.83,Aquamarine,XS,214,Epilobium obcordatum A. Gray,Drugs,2021-02-09 19:41:38,2021-08-25 15:15:34
+1335,Metoprolol Tartrate,Metoprolol Tartrate,184.07,Yellow,XL,146,Mentzelia polita A. Nelson,Drugs,2020-12-12 06:53:09,2021-08-30 08:12:35
+1336,Antihemophilic Factor (Recombinant),Kogenate FS,248.41,Violet,3XL,198,Chenopodium berlandieri Moq. ssp. nuttalliae (Saff.) H.D. Wilson & Heiser,Drugs,2020-12-20 19:52:39,2021-04-10 19:10:19
+1337,Metformin Hydrochloride,Metformin Hydrochloride,62.66,Blue,M,233,Dithyrea californica Harv.,Drugs,2021-01-29 11:17:22,2021-05-13 15:18:46
+1338,ACETAMINOPHEN PM,ACETAMINOPHEN PM,159.4,Crimson,L,211,Koerberia sonomensis (Tuck.) Henssen,Drugs,2021-01-18 10:26:45,2021-10-23 01:22:51
+1339,hydrocodone bitartrate and acetaminophen,VICODIN HP,114.47,Goldenrod,3XL,122,Agastache micrantha (A. Gray) Wooton & Standl.,Drugs,2021-02-17 14:55:34,2021-05-14 12:56:53
+1340,Salicylic Acid,Olay Fresh Effects,289.53,Green,S,253,Astragalus newberryi A. Gray var. newberryi,Drugs,2020-12-29 02:10:03,2021-10-24 14:57:20
+1341,Burweed Marsh Elder,Burweed Marsh Elder,276.69,Fuscia,3XL,107,Micarea nitschkeana (J. Lahm ex Rabenh.) Harm.,Drugs,2020-11-30 00:58:35,2021-09-17 04:30:40
+1342,"Aspergillus niger, Cladosporium, Candida albicans, Thyroidinum, Ustilago maidis, Aconitum nap., Antimonium tart. Aralia quinquefolia, Arnica, Arsenicum alb., Baptisia, Bryonia, Cantharis, Chelidonium majus, Cinchona, Echinacea, Iodium, Kali carb. Kali iod., Lachesis, Lycopodium Lycopus virginicus, Nat. mur., Nux vom., Phosphorus, Phytolacca, Pulsatilla, Rhus toxicodendron, Sabal",Multi-System Support,239.88,Red,3XL,197,Sicyos cucumerinus A. Gray,Drugs,2021-02-01 07:55:31,2021-03-17 02:04:54
+1343,HYDROQUINONE,Skin Lightening,108.49,Turquoise,S,78,Youngia Cass.,Drugs,2021-02-20 21:44:58,2021-03-23 20:58:18
+1344,ulipristal acetate,Ella,16.51,Red,M,51,Physaria didymocarpa (Hook.) A. Gray,Drugs,2021-02-07 01:08:56,2021-10-21 09:54:10
+1345,CAFFEINE CITRATE,Caffeine Citrate,223.79,Puce,M,124,Pseudobahia heermannii (Durand) Rydb.,Drugs,2020-12-30 15:37:55,2021-03-28 19:44:36
+1346,Sodium Nitrite,Sodium Nitrite,239.69,Violet,M,224,Pohlia cardotii (Renauld) Broth.,Drugs,2020-12-13 19:22:26,2021-09-09 06:49:15
+1347,Betamethasone Dipropionate,Betamethasone Dipropionate,178.65,Green,L,153,Cuscuta obtusiflora Kunth,Drugs,2021-02-10 23:14:46,2021-09-29 14:12:36
+1348,Atenolol and Chlorthalidone,Atenolol and Chlorthalidone,214.27,Orange,XL,155,Leptodontium flexifolium (With.) Hampe,Drugs,2020-11-13 17:09:48,2021-10-27 10:26:59
+1349,"Dimethicone, Octinoxate, Octisalate, Oxybenzone",Softlips Coconut Cream,260.02,Orange,L,246,Abutilon indicum (L.) Sweet,Drugs,2020-12-22 04:46:39,2021-10-07 20:24:13
+1350,Bleomycin,Bleomycin,238.42,Mauv,XS,110,Maranta arundinacea L.,Drugs,2021-02-18 18:49:23,2021-06-30 16:52:17
+1351,PLUMBUM METALLICUM,Total Lead,119.05,Green,XL,82,Ranunculus adoneus A. Gray var. adoneus,Drugs,2021-02-24 07:43:20,2021-08-07 04:08:47
+1352,Simvastatin,Simvastatin,113.02,Goldenrod,S,210,Petroselinum J. Hill,Drugs,2021-01-31 06:47:48,2021-11-03 14:05:46
+1353,Grapefruit,Grapefruit,31.37,Maroon,L,247,Polypogon australis Brongn.,Drugs,2021-02-11 16:52:37,2021-11-04 23:50:02
+1354,PHELLINUS LINTEUS MYCELIUM,Messima EX,190.75,Blue,S,102,Kaempferia rotunda L.,Drugs,2021-02-15 01:21:18,2021-03-19 00:35:39
+1355,Candida albicans,"Molds, Rusts and Smuts, Candida albicans",38.38,Mauv,XS,122,Cymopterus acaulis (Pursh) Raf. var. fendleri (A. Gray) Goodrich,Drugs,2021-01-14 12:09:41,2021-09-18 02:21:31
+1356,Aluminum Chlorohydrate,Suave,129.34,Purple,L,250,Ivesia lycopodioides A. Gray ssp. megalopetala (Rydb.) D.D. Keck,Drugs,2020-12-01 06:47:00,2021-07-30 11:51:54
+1357,Chaetomium globosum,CHAETOMIUM GLOBOSUM,129.77,Fuscia,L,180,Panicum hirsutum Sw.,Drugs,2021-01-06 03:34:59,2021-06-16 23:41:05
+1358,"Titanium Dioxide, Octinoxate",The Cover Classic Pro Foundation,159.86,Aquamarine,XL,194,Pinckneya Michx.,Drugs,2020-12-01 20:07:56,2021-04-08 16:26:53
+1359,LACTIC ACID,HERBAL STEMCELL AHA PEEL,214.51,Blue,S,117,Acoelorraphe H. Wendl.,Drugs,2021-02-08 21:36:25,2021-08-25 15:51:37
+1360,"Fentanyl Citrate, Bupivacaine HCl","Fentanyl Citrate, Bupivacaine HCl",150.37,Yellow,2XL,67,Hoffmannseggia tenella Tharp & L.O. Williams,Drugs,2021-01-01 08:25:38,2021-09-20 12:51:22
+1361,carvedilol,COREG,89.82,Green,XL,71,Dalbergia brownei (Jacq.) Schinz,Drugs,2020-12-24 12:53:32,2021-07-14 21:17:45
+1362,Aluminum Zirconium Tetrachlorohydrex GLY,Dove Clinical Protection Cool Essentials,159.05,Aquamarine,2XL,161,Acacia oswaldii F. Muell.,Drugs,2021-01-07 08:40:35,2021-06-05 13:27:32
+1363,Carboplatin,Carboplatin,179.74,Teal,XS,98,Pellaea cordifolia (Sessé & Moc.) A.R. Sm.,Drugs,2020-11-24 01:17:00,2021-05-20 01:28:41
+1364,"Belladonna, Cantharis, Causticum, Cina, Equisetum hyemale, Ingatia amara, Physalis alkekengi, Sepia, Uranium nitricum, Verbascum thapsus,",Bedwetting,161.56,Crimson,2XL,178,Cryptantha nevadensis A. Nelson & Kennedy var. rigida I.M. Johnst.,Drugs,2020-11-25 14:39:48,2021-04-09 03:57:15
+1365,Standardized Redtop Grass Pollen,Standardized Redtop Grass Pollen,158.37,Red,L,191,Ribes nevadense Kellogg var. nevadense,Drugs,2021-01-11 11:27:43,2021-03-06 14:30:59
+1366,Levetiracetam,Levetiracetam,88.91,Maroon,L,266,Pseudocrossidium replicatum (Taylor) R.H. Zander,Drugs,2021-02-26 15:45:54,2021-03-23 07:29:45
+1367,ESCITALOPRAM OXALATE,Lexapro,101.49,Aquamarine,M,137,Lithospermum cobrense Greene,Drugs,2021-01-04 03:57:14,2021-07-27 04:22:51
+1368,Acetaminophen and Diphenhydramine HCl,Acetaminophen PM,289.39,Green,XS,269,Camissonia scapoidea (Nutt. ex Torr. & A. Gray) P.H. Raven ssp. scapoidea,Drugs,2020-11-25 20:33:21,2021-03-23 14:19:19
+1369,Pyrithione Zinc,Head and Shoulders 2in1,127.57,Fuscia,2XL,83,Hylocomiastrum Fleisch.,Drugs,2021-02-25 14:24:41,2021-06-17 02:51:42
+1370,KETOROLAC TROMETHAMINE,Ketorolac Tromethamine,147.47,Green,XS,133,Lupinus sulphureus Douglas ex Hook.,Drugs,2020-12-09 04:19:58,2021-10-21 21:40:45
+1371,pancrelipase,ZENPEP,209.43,Fuscia,S,238,Cardamine debilis D. Don,Drugs,2021-02-20 07:16:45,2021-05-16 10:17:49
+1372,doxazosin mesylate,Doxazosin,110.84,Maroon,XL,223,Striga hermonthica (Delile) Benth.,Drugs,2020-12-21 23:02:43,2021-04-09 06:29:59
+1373,zaleplon,Sonata,110.88,Green,M,175,Paspalidium philippianum Parodi [excluded],Drugs,2021-01-19 19:16:40,2021-10-06 14:42:47
+1374,calcitriol,Rocaltrol,24.9,Violet,XL,292,Downingia elegans (Douglas ex Lindl.) Torr. var. elegans,Drugs,2020-12-27 15:18:37,2021-03-20 20:44:43
+1375,oxycodone hydrochloride and acetaminophen,OXYCODONE AND ACETAMINOPHEN,176.27,Pink,L,99,Diodia apiculata (Willd. ex Roem. & Schult.) K. Schum.,Drugs,2020-12-07 07:19:53,2021-03-10 01:50:40
+1376,ACTIVATED CHARCOAL,Carbo Vegetabilis 30c,299.37,Blue,S,146,Eriastrum brandegeeae H. Mason,Drugs,2021-01-23 05:40:32,2021-03-06 21:17:13
+1377,"diphenhydramine citrate, ibuprofen",equate ibuprofen pm,154.14,Pink,XS,166,Allium dichlamydeum Greene,Drugs,2020-12-06 02:59:23,2021-07-27 12:37:04
+1378,NITROGEN,NITROGEN,194.7,Puce,2XL,182,Ranunculus macauleyi A. Gray,Drugs,2021-01-16 06:55:19,2021-08-22 12:22:42
+1379,Salicylic Acid,OXY Purifying Face Scrub,85.94,Aquamarine,XL,211,Physcomitrium collenchymatum Gier,Drugs,2020-12-08 12:30:59,2021-05-22 11:56:18
+1380,Ticlopidine Hydrochloride,Ticlopidine Hydrochloride,281.64,Red,M,269,Scleropogon Phil.,Drugs,2020-12-19 13:28:16,2021-07-29 01:43:25
+1381,Ketoconazole,Ketoconazole,211.17,Orange,M,140,Atrichum haussknechtii Jur. & Milde,Drugs,2020-11-28 22:53:37,2021-08-23 08:50:20
+1382,PANTOPRAZOLE SODIUM,PANTOPRAZOLE SODIUM,30.36,Turquoise,S,121,Isocoma acradenia (Greene) Greene,Drugs,2020-11-29 12:45:02,2021-08-23 04:10:02
+1383,PHOSPHORUS,Cough Sore Throat,52.99,Goldenrod,M,73,Streptanthus bracteatus A. Gray,Drugs,2020-12-09 13:13:07,2021-05-21 06:19:21
+1384,Estradiol and Norethindrone Acetate,Mimvey,87.69,Khaki,3XL,143,"Andropogon glomeratus (Walter) Britton, Sterns & Poggenb. var. hirsutior (Hack.) C. Mohr",Drugs,2021-02-08 09:10:48,2021-03-20 14:20:27
+1385,Tacrolimus,Prograf,31.75,Orange,2XL,237,Tetrastigma (Miq.) Planch.,Drugs,2021-02-16 10:52:23,2021-03-12 16:32:25
+1386,Tramadol Hydrochloride,Tramadol Hydrochloride,20.32,Khaki,S,174,Agalinis linifolia (Nutt.) Britton,Drugs,2020-11-09 11:17:13,2021-10-18 20:55:23
+1387,Ethyl Alcohol,Instant Hand Sanitizer,152.6,Purple,XL,233,Psychotria kosraensis Lorence & K.R. Wood,Drugs,2020-12-12 02:31:52,2021-06-12 07:43:31
+1388,salicylic acid,SKIN MEDICA Purifying Foaming Wash,54.02,Puce,S,264,Senecio mandraliscae (Tineo) H. Jacobsen,Drugs,2020-11-21 03:55:01,2021-06-28 12:13:24
+1389,Nitroglycerin,Nitroglycerin,205.19,Violet,L,81,Paronychia erecta (Chapm.) Shinners var. erecta,Drugs,2021-02-23 07:28:53,2021-10-28 01:07:36
+1390,Calcium carbonate,Antacid,162.64,Turquoise,S,300,Alpinia galanga (L.) Sw.,Drugs,2020-12-08 06:58:17,2021-09-03 00:57:49
+1391,sodium fluoride,ControlRx Multi,93.69,Teal,XL,195,Delphinium madrense S. Watson,Drugs,2020-12-09 16:04:09,2021-10-26 21:56:50
+1392,"Aceetaminophen, Guaifenesin and Phenylephrine HCl",Sinus Congestion and Pain Severe Daytime,275.85,Turquoise,XL,268,Euphorbia serrata L.,Drugs,2021-01-25 12:53:31,2021-09-19 14:05:42
+1393,Ragweed. Western Ambrosia psilostachya,"Pollens - Weeds and Garden Plants, Ragweed. Western Ambrosia psilostachya",127.4,Goldenrod,3XL,159,Morus rubra L. var. rubra,Drugs,2020-12-29 06:54:40,2021-03-11 15:33:07
+1394,Simvastatin,Simvastatin,253.54,Crimson,3XL,211,Aphragmus eschscholtzianus Andrz. ex DC.,Drugs,2020-11-25 11:59:48,2021-03-04 00:02:24
+1395,Amoxicillin,Amoxicillin,32.37,Turquoise,M,194,Euphorbia falcata L.,Drugs,2021-02-04 18:54:18,2021-03-06 09:08:19
+1396,SCHOENOCAULON OFFICINALE SEED,Hay Fever,222.36,Fuscia,S,162,Lobelia puberula Michx. var. simulans Fernald,Drugs,2020-12-14 19:52:46,2021-08-09 08:15:41
+1397,SODIUM CATION,Dry Cough Diarrhea,20.73,Green,L,167,Agalinis tenuifolia (Vahl) Raf. var. macrophylla (Benth.) S.F. Blake,Drugs,2020-11-11 17:03:09,2021-04-21 11:46:22
+1398,Paricalcitol,Paricalcitol,126.59,Yellow,S,111,Euonymus atropurpureus Jacq. var. atropurpureus,Drugs,2020-12-18 08:46:16,2021-10-25 11:54:26
+1399,"Amino acids, Apis mellifica, Arnica montana, Fucus vesiculosus, Gambogia, Hepar suis, Phosphoricum acidum Pituitary suis,",Weight Loss Solution,243.22,Goldenrod,3XL,239,Billbergia Thunb.,Drugs,2021-02-25 01:46:40,2021-09-18 21:13:22
+1400,Famotidine,Famotidine,294.21,Mauv,L,297,Saxifraga nidifica Greene var. claytoniifolia (Canby ex Small) Elvander,Drugs,2021-01-29 12:20:09,2021-09-13 08:18:34
+1401,Hydrocodone Bitartrate And Acetaminophen,Hydrocodone Bitartrate And Acetaminophen,280.98,Violet,S,280,Opegrapha astraea Tuck.,Drugs,2021-02-11 06:37:40,2021-06-11 18:01:29
+1402,Venlafaxine Hydrochloride,Venlafaxine Hydrochloride,23.42,Purple,3XL,118,Umbilicaria polyphylla (L.) Baumg.,Drugs,2020-12-30 02:08:05,2021-04-14 06:50:32
+1403,"Echinacea, Colchicum Autumnale, Aloe Socotrina, Colocynthis, Mercurius Corrosivus, Nux Vomica, Arsenicum Album, Chininum Sulphuricum",Intestinal Distress,162.7,Crimson,M,127,Polystichum haleakalense Brack.,Drugs,2021-01-09 07:09:04,2021-08-18 18:10:50
+1404,Olanzapine,ZYPREXA,287.7,Teal,M,238,Cryptantha stricta (Osterh.) Payson,Drugs,2020-12-29 07:09:20,2021-03-14 14:50:53
+1405,CleanWell Natural Original Hand Sanitizer Wipes,CleanWell Natural Original Hand Sanitizer Wipes,232.17,Maroon,S,210,Stenotus Nutt.,Drugs,2021-01-23 13:32:42,2021-10-17 23:12:48
+1406,fluorouracil,Carac,254.26,Pink,S,222,Sidalcea diploscypha (Torr. & A. Gray) A. Gray,Drugs,2021-01-26 04:03:25,2021-07-16 15:12:42
+1407,Aluminum Zirconium Trichlorohydrex Gly,Secret Antiperspirant/Deodorant,175.69,Maroon,2XL,288,Stephanomeria minor (Hook.) Nutt. var. uintaensis (Goodrich & S.L. Welsh) Kartesz,Drugs,2021-02-16 13:17:33,2021-09-23 04:13:04
+1408,Lorazepam,Lorazepam,295.62,Pink,S,266,Callitriche pedunculosa Nutt.,Drugs,2021-02-23 08:46:13,2021-10-11 17:03:34
+1409,clonidine hydrochloride,CLONIDINE HYDROCHLORIDE,31.54,Maroon,2XL,175,Ceropegia woodii Schltr.,Drugs,2021-02-10 10:34:05,2021-08-27 03:34:54
+1410,East Sycamore,East Sycamore,21.2,Aquamarine,S,196,Psychotria berteriana DC.,Drugs,2021-02-15 05:26:16,2021-07-06 03:00:04
+1411,Diphenhydramine Hydrochloride,smart sense allergy,123.96,Goldenrod,M,63,Cyrtandra dentata H. St. John & Storey,Drugs,2020-12-13 06:16:51,2021-10-24 14:31:22
+1412,"AVOBENZONE, OCTOCRYLENE, OXYBENZONE",HAWAIIAN Tropic,234.5,Crimson,XL,285,Camissonia campestris (Greene) P.H. Raven,Drugs,2020-12-08 15:06:21,2021-09-20 05:00:21
+1413,Salsola kali,Russian Thistle Pollen,49.82,Purple,XS,118,Rubus dissimilis L.H. Bailey,Drugs,2021-01-06 10:03:48,2021-04-26 18:12:14
+1414,"Aceticum Acidum, Alloxanum, Bovista, Carcinocinum, Helonias, Lycopodium, Phosphoricum Acidum, Phosphorus, Plumbum Met, Tarentula. Syzygium ,Terebinthiniae, Uranium Nit.",Diabetes,246.82,Puce,3XL,186,Homalothecium nevadense (Lesq.) Renauld & Cardot,Drugs,2021-01-16 05:18:59,2021-07-17 06:03:48
+1415,Morphine Sulfate,Morphine Sulfate,152.21,Pink,3XL,171,Asclepias asperula (Decne.) Woodson ssp. asperula,Drugs,2020-11-23 08:02:41,2021-06-26 23:00:37
+1416,cultivated mushroom,MUSHROOM FOOD,170.2,Red,XS,61,Lithospermum caroliniense (Walter ex J.F. Gmel.) MacMill. var. croceum (Fernald) Cronquist,Drugs,2021-01-06 07:18:16,2021-07-27 03:33:42
+1417,levothyroxine sodium,Unithroid,110.21,Puce,L,194,Cucurbita pepo L.,Drugs,2020-12-31 06:48:53,2021-09-30 01:49:22
+1418,Cetraria islandica subsp. islandica,Pleo Cerivi,79.41,Maroon,2XL,147,Oenothera grandiflora L'Hér. ex Aiton,Drugs,2021-02-04 01:20:36,2021-10-12 13:56:21
+1419,Zinc Oxide,Baby Butz,70.96,Fuscia,3XL,89,Canarium L.,Drugs,2021-01-19 11:11:47,2021-06-23 22:44:44
+1420,Glipizide,Glipizide,138.35,Red,S,233,Multiclavula sharpii R. Petersen,Drugs,2021-02-02 17:43:49,2021-09-29 04:11:47
+1421,FLAVOXATE HYDROCHLORIDE,FLAVOXATE HYDROCHLORIDE,35.46,Green,S,97,Phlox griseola Wherry,Drugs,2020-12-15 17:10:26,2021-07-31 23:33:31
+1422,telmisartan and hydrochlorthiazide,telmisartan and hydrochlorthiazide,205.54,Teal,2XL,271,Astragalus cobrensis A. Gray var. cobrensis,Drugs,2020-11-28 07:06:46,2021-09-08 15:07:38
+1423,levonorgestrel,Next Choice,89.23,Fuscia,M,221,Stenocybe tremulicola Norrlin ex Nyl.,Drugs,2020-12-10 19:49:20,2021-06-25 23:06:33
+1424,Octinoxate and Oxybenzone,CYZONE,43.1,Puce,L,210,Scleropodium cespitans (Müll. Hal.) L.F. Koch var. cespitans,Drugs,2020-12-19 18:27:31,2021-05-25 23:19:09
+1425,Acetaminophen and Phenylephrine HCl,Sinus Congestion and Pain,273.85,Teal,M,64,Cyrtomium caryotideum (Wall. ex Hook. & Grev.) C. Presl,Drugs,2020-11-17 23:00:20,2021-06-30 09:19:07
+1426,LISINOPRIL AND HYDROCHLOROTHIAZIDE,LISINOPRIL AND HYDROCHLOROTHIAZIDE,231.73,Yellow,L,216,Gliricidia sepium (Jacq.) Kunth ex Walp.,Drugs,2021-01-01 06:11:36,2021-03-27 23:18:02
+1427,quetiapine fumarate,quetiapine fumarate,200.81,Aquamarine,M,199,Osmorhiza mexicana Griseb.,Drugs,2020-12-05 08:08:10,2021-09-03 13:25:30
+1428,Benazepril Hydrochloride,Benazepril Hydrochloride,50.16,Goldenrod,XL,277,Lomagramma J. Sm.,Drugs,2021-01-21 02:57:23,2021-07-10 18:01:51
+1429,STRYCHNOS NUX-VOMICA SEED,Nux Vomica,185.69,Indigo,S,184,Noccaea parviflora (A. Nelson) Holub,Drugs,2020-11-11 17:38:13,2021-04-15 07:10:38
+1430,Eszopiclone,Eszopiclone,19.0,Orange,3XL,153,Desmodium rosei B.G. Schub.,Drugs,2020-12-31 19:18:08,2021-07-01 08:38:47
+1431,Lamotrigine,Lamotrigine,205.38,Aquamarine,2XL,122,Vangueria Comm. ex Juss.,Drugs,2020-12-18 22:15:17,2021-03-19 17:20:10
+1432,prednisolone acetate,PREDNISOLONE ACETATE,185.98,Indigo,XS,286,Descurainia incana (Bernh. ex Fisch. & C.A. Mey.) Dorn ssp. procera (Greene) Kartesz & Gandhi,Drugs,2020-11-21 04:56:52,2021-04-25 18:09:47
+1433,TRICLOSAN,FREDS,142.85,Goldenrod,M,274,Eriogonum ovalifolium Nutt. var. caelestinum Reveal,Drugs,2020-11-20 13:40:59,2021-10-14 21:48:47
+1434,"Beta Vulgaris, Boldo, Carduus Benedictus, Chelidonium Majus, Coffea Tosta, Equisetum Arvense, Petroselinum Sativum",Hydration Complex,107.95,Teal,M,195,Sphaeromeria cana (D.C. Eaton) A. Heller,Drugs,2021-01-31 18:05:43,2021-10-30 22:56:34
+1435,Pyrithione Zinc,Head and Shoulders Conditioner,76.74,Yellow,XL,69,Ligusticum verticillatum (Hook.) J.M. Coult. & Rose ex Rose,Drugs,2021-02-15 14:33:20,2021-03-13 08:49:50
+1436,Carbon Dioxide,Carbon Dioxide,153.23,Khaki,M,248,Minuartia godfreyi (Shinners) McNeill,Drugs,2021-01-26 18:19:38,2021-03-12 06:43:06
+1437,Ceftriaxone,Ceftriaxone,78.6,Maroon,S,172,Lupinus wyethii S. Watson ssp. tetonensis (E.E. Nelson) Cox & D. Dunn,Drugs,2020-12-12 04:16:54,2021-09-13 19:43:02
+1438,Allantoin,BABOR CLEANSING Rose Toning,148.73,Orange,L,234,Allium hoffmanii Ownbey,Drugs,2021-02-22 06:22:38,2021-04-20 08:09:29
+1439,Droperidol,Droperidol,70.59,Purple,S,160,Berberis wilcoxii Kearney,Drugs,2020-11-27 07:11:22,2021-06-19 09:06:40
+1440,"Neomycin Sulfate, Polymyxin B Sulfate, Hydrocortisone",Neomycin and Polymyxin B Sulfates and Hydrocortisone,263.91,Puce,M,165,Ligustrum L.,Drugs,2020-12-13 19:38:55,2021-09-15 09:18:03
+1441,"norethindrone acetate and ethinyl estradiol, ethinyl estradiol and ferrous fumarate",Lo Minastrin Fe,123.83,Red,L,86,Tradescantia subacaulis Bush,Drugs,2020-11-10 22:07:13,2021-07-11 01:01:40
+1442,Carbamide Peroxide,Ear Wax Removal Aid,160.35,Purple,S,116,Linanthus filiformis (Parry ex A. Gray) J.M. Porter & L.A. Johnson,Drugs,2021-01-19 02:33:06,2021-09-23 20:53:45
+1443,Tizanidine,Tizanidine,38.82,Green,2XL,271,Platonia Mart.,Drugs,2020-12-29 07:36:23,2021-08-30 12:25:53
+1444,midodrine hydrochloride,Midodrine Hydrochloride,150.51,Indigo,M,101,Pinus sabiniana Douglas ex Douglas,Drugs,2020-12-19 01:50:43,2021-06-15 13:27:40
+1445,Amlodipine Besylate,Amlodipine Besylate,165.3,Teal,XS,276,Astragalus cerussatus Sheldon,Drugs,2020-12-20 22:20:42,2021-06-28 07:37:28
+1446,Naphazoline hydrochloride and Pheniramine Maleate,Allergy Eye Drops,241.68,Puce,S,266,Dodecatheon frigidum Cham. & Schltdl.,Drugs,2020-12-06 16:08:19,2021-10-07 15:33:03
+1447,DEXCHLORPHENIRAMINE MALEATE and PHENYLEPHRINE HYDROCHLORIDE,RYMED,267.03,Pink,M,273,Avena occidentalis Durieu,Drugs,2020-11-30 06:41:35,2021-03-20 01:59:47
+1448,ALCOHOL,Healing Waters Cucumber Melon Scented Waterless Hand Sanitizer,228.39,Pink,2XL,154,Aspicilia disserpens (Zahlbr.) Rasanen,Drugs,2021-02-04 01:19:35,2021-10-13 05:58:08
+1449,"Avobenzone, Octinoxate, Octisalate, Octocrylene",Everyday Face and body Broad Spectrum SPF 30,121.77,Fuscia,2XL,51,Pseudobahia peirsonii Munz,Drugs,2021-01-24 07:03:17,2021-04-20 04:07:44
+1450,testosterone,Testim,169.19,Teal,L,205,Vallesia Ruiz & Pav.,Drugs,2020-12-17 04:53:31,2021-11-06 15:30:42
+1451,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone",Australian Gold,148.81,Fuscia,XL,244,Brickellia eupatorioides (L.) Shinners var. corymbulosa (Torr. & A. Gray) Shinners,Drugs,2021-02-18 18:15:04,2021-03-24 23:17:36
+1452,Neurospora intermedia,Neurospora intermedia,199.18,Teal,3XL,65,Lobelia spicata Lam. var. spicata,Drugs,2020-11-07 12:59:26,2021-10-05 01:22:40
+1453,"BROMPHENIRAMINE MALEATE, DEXTROMETHORPHAN HYDROBROMIDE, and PSEUDOEPHEDRINE HYDROCHLORIDE",Brompheniramine Pseudoephedrine DM,292.99,Purple,L,273,Blepharipappus scaber Hook. ssp. laevis (A. Gray) D.D. Keck,Drugs,2021-01-12 15:21:38,2021-07-02 19:04:19
+1454,"Pyrilamine Maleate, Chlorpheniramine Maleate, and Phenylephrine Hydrochloride",POLY HIST,61.26,Purple,M,211,Quercus nigra L.,Drugs,2021-02-26 15:47:11,2021-09-28 19:38:05
+1455,"octinoxate, octisalate",OP Protective Spray Gel 8,213.99,Blue,XL,242,Liatris spicata (L.) Willd.,Drugs,2020-12-07 03:52:41,2021-05-29 17:50:32
+1456,SODIUM FLUORIDE and TRICLOSAN,Colgate,56.53,Turquoise,XL,185,Ceratopteris pteridoides (Hook.) Hieron.,Drugs,2020-11-23 00:22:44,2021-08-25 06:35:40
+1457,candesartan cilexetil and hydrochlorothiazide,Candesartan Cilexetil and Hydrochlorothiazide,233.5,Purple,L,126,Quillaja Molina,Drugs,2021-01-08 13:43:23,2021-10-09 15:58:02
+1458,"Standardized Grass Pollen, Timothy","Standardized Grass Pollen, Timothy",290.51,Maroon,2XL,280,Cyclanthera Schrad.,Drugs,2021-02-19 22:40:35,2021-09-16 04:04:31
+1459,acetaminophen and codeine phosphate,Acetaminophen And Codeine,283.65,Turquoise,2XL,199,Cuscuta rostrata Shuttlw. ex Engelm. & A. Gray,Drugs,2021-02-25 06:08:41,2021-08-13 09:16:00
+1460,Capsaicin,Fast Arthritis Aid,75.1,Puce,XS,124,Acacia boomanii Maiden,Drugs,2020-11-24 19:52:04,2021-03-06 06:24:58
+1461,Adenosine,Adenosine,283.63,Pink,XS,129,"Orthothecium diminutivum (Grout) H.A. Crum, Steere & L.E. Anderson",Drugs,2020-12-24 02:34:58,2021-06-28 13:50:52
+1462,"Ragweed, Giant Ambrosia trifida","Pollens - Weeds and Garden Plants, Ragweed, Giant Ambrosia trifida",92.93,Crimson,L,53,Delphinium hansenii (Greene) Greene ssp. hansenii,Drugs,2020-11-20 18:54:00,2021-06-18 08:53:33
+1463,Titanium Dioxide and Zinc Oxide,Purminerals 4-in-1 Mineral Tinted Moisturizer Broad Spectrum SPF 20 (TAN),173.88,Red,M,235,Triteleia hendersonii Greene var. leachiae (M. Peck) Hoover,Drugs,2021-02-12 08:36:47,2021-05-16 21:34:20
+1464,Pseudoephedrine Hydrochloride,good neighbor pharmacy nasal decongestant,203.93,Violet,S,269,Acarospora tenebrica H. Magn.,Drugs,2021-02-19 19:32:04,2021-07-07 03:12:36
+1465,Aluminum Chlorohydrate,Ladys Choice Invisible Solid,54.43,Indigo,3XL,166,Eriophorum gracile W.D.J. Koch var. gracile,Drugs,2020-12-25 10:23:10,2021-04-06 06:12:14
+1466,Anticaries,CTx3 Rinse,260.25,Green,L,87,Astragalus iodanthus S. Watson,Drugs,2020-12-30 11:18:50,2021-10-15 07:37:15
+1467,"ACETAMINOPHEN, DIPHENHYDRAMINE HYDROCHLORIDE, and PHENYLEPHRINE HYDROCHLORIDE","Acetaminophen, Diphenhydramine Hydrochloride, Phenylephrine Hydrochloride",193.69,Fuscia,3XL,134,Carex vexans F.J. Herm.,Drugs,2021-01-01 21:25:48,2021-08-23 18:05:57
+1468,lovastatin,lovastatin,43.61,Goldenrod,S,257,Atropa L.,Drugs,2020-11-07 03:02:46,2021-06-11 17:44:12
+1469,nicardipine hydrochloride,Nicardipine Hydrochloride,163.21,Blue,S,270,Melicope sessilis (H. Lév.) T.G. Hartley & B.C. Stone,Drugs,2020-12-09 04:43:40,2021-07-24 18:59:38
+1470,Camphor,Abridge Cold Sore Treatment,150.29,Purple,XL,257,Rubus tholiformis Fernald,Drugs,2020-11-22 07:10:02,2021-09-03 03:00:19
+1471,Lovastatin,Lovastatin,171.55,Fuscia,S,238,Ipomopsis globularis (Brand) W.A. Weber,Drugs,2020-12-31 23:15:11,2021-04-06 00:07:56
+1472,HYDROXYZINE HYDROCHLORIDE,HYDROXYZINE HYDROCHLORIDE,174.68,Red,2XL,184,Mirabilis tenuiloba S. Watson,Drugs,2020-12-25 00:56:17,2021-10-18 03:50:12
+1473,Fluoxetine Hydrochloride,Fluoxetine,274.41,Fuscia,S,111,Triumfetta L.,Drugs,2021-01-03 21:09:26,2021-08-16 10:33:03
+1474,AVOBENZONE,Exchange Select Kids Sunscreen,211.85,Orange,2XL,198,Giliastrum (Brand) Rydb.,Drugs,2020-12-21 15:44:22,2021-06-01 03:53:53
+1475,Oxygen,Oxygen,157.06,Khaki,XS,291,Theobroma grandiflorum (Willd. ex Spreng.) Schum.,Drugs,2020-12-03 00:56:06,2021-05-15 23:46:31
+1476,Zinc Oxide,Bum Ease,298.44,Aquamarine,S,216,Buellia pulverulenta (Anzi) Jatta,Drugs,2020-11-18 12:24:24,2021-09-13 21:43:21
+1477,LEVOFLOXACIN,LEVOFLOXACIN,103.26,Khaki,XS,250,Kyllinga odorata Vahl,Drugs,2020-11-23 11:42:29,2021-05-06 20:21:16
+1478,"Dextromethorphan,Chlorpheniramine Maleate, Phenylephrine",Bio-B Kids,29.3,Aquamarine,XS,76,Carex praeceptorum Mack.,Drugs,2020-12-12 02:59:16,2021-05-27 20:45:15
+1479,Cefotaxime,Cefotaxime,102.2,Mauv,S,212,Eriophyllum lanatum (Pursh) Forbes var. leucophyllum (DC.) W.R. Carter,Drugs,2020-11-20 13:18:32,2021-08-30 18:06:42
+1480,HYDROGENATED SOYBEAN,S Balloon Slim Body Line,77.83,Indigo,3XL,112,Trichloris Fourn. ex Benth.,Drugs,2020-12-16 10:10:09,2021-04-01 11:44:53
+1481,LANOLIN,LanoGuard,217.86,Fuscia,M,290,Epipactis helleborine (L.) Crantz,Drugs,2021-02-09 14:07:10,2021-08-26 08:50:03
+1482,Phenylephrine hydrochloride,nose,205.14,Fuscia,XS,198,Riccia elliottii Steph.,Drugs,2021-02-11 02:34:32,2021-10-03 23:26:14
+1483,"Camphor, Menthol",Apanol,157.87,Red,2XL,204,Phaeographis sericea (Eschw.) Müll. Arg.,Drugs,2020-12-08 15:50:46,2021-03-27 16:55:42
+1484,APIS MELLIFICA,APIS MELLIFICA,280.82,Yellow,M,92,Rubus leucodermis Douglas ex Torr. & A. Gray var. bernardinus (Greene) Jeps.,Drugs,2020-12-09 09:10:28,2021-08-24 12:09:29
+1485,ETHYL ALCOHOL,KROGER,253.32,Green,XL,300,Solanum fendleri A. Gray ex Torr. var. fendleri,Drugs,2020-11-17 09:33:44,2021-10-18 22:22:54
+1486,"Acetaminophen, Dextromethorphan HBr, Guaifenesin, Phenylephrine HCl",Up and Up Mucus Relief,100.65,Fuscia,XS,198,Geranium potentilloides L'Hér. ex DC.,Drugs,2020-12-31 05:51:23,2021-08-31 09:08:11
+1487,"dibasic sodium phosphate, monobasic sodium phosphate",Gadavyt Enema,99.29,Green,S,249,Gentiana septemfida Pall.,Drugs,2021-01-03 13:45:19,2021-05-25 09:36:20
+1488,Kit for the Preparation of Technetium Tc 99m Albumin Aggregated,DRAXIMAGE MAA,49.87,Pink,XL,157,Trema Lour.,Drugs,2021-01-11 22:41:32,2021-04-03 23:29:42
+1489,Triclosan,Lysol,102.93,Mauv,2XL,67,Trichocentrum Poepp. & Endl.,Drugs,2020-12-29 06:28:40,2021-06-13 20:32:03
+1490,Hydralazine Hydrochloride,Hydralazine Hydrochloride,231.54,Puce,3XL,242,Reverchonia A. Gray,Drugs,2021-02-25 10:48:57,2021-04-20 07:11:49
+1491,"GUAIFENESIN, DEXTROMETHORPHAN HBr",MUCUS RELIEF DM,193.33,Khaki,2XL,65,Selaginella mutica D.C. Eaton ex Underw. var. limitanea Weath.,Drugs,2021-02-18 21:32:49,2021-03-08 17:27:28
+1492,Short Ragweed Pollen Allergen Extract,RAGWITEK,64.85,Yellow,3XL,155,Rhizocarpon Ramond ex DC.,Drugs,2021-01-22 13:54:22,2021-05-06 18:50:51
+1493,paliperidone,INVEGA,38.05,Goldenrod,XL,88,Lespedeza ×nuttallii Darl. (pro sp.),Drugs,2021-01-15 04:23:45,2021-07-10 17:29:20
+1494,Fluconazole,Fluconazole,225.38,Blue,XL,64,Paronychia setacea Torr. & A. Gray var. longibracteata Chaudhri,Drugs,2020-11-22 19:21:46,2021-06-03 23:01:30
+1495,"Hepar sulphuris calcareum, Kali bichromicum, Pulsatilla, Silicea,",Sinus Clear,63.41,Khaki,XS,167,Salix ×wiegandii Fernald,Drugs,2021-01-21 09:42:35,2021-07-29 13:18:45
+1496,"Calcarea Carbonica, Calcarea Fluorica, Calcarea Phosphorica, Hekla Lava, Hydrofluoricum Acidum, Magnesia Phosphorica",Bone Repair,285.38,Red,XL,237,Galium grande McClatchie,Drugs,2020-12-09 15:09:38,2021-04-22 00:27:58
+1497,vecuronium bromide,Vecuronium,273.77,Orange,M,69,Atriplex sibirica L.,Drugs,2020-12-20 14:21:27,2021-05-10 16:10:43
+1498,Benzocaine,Rite Aid,87.73,Aquamarine,M,173,Pittosporum terminalioides Planch. ex A. Gray,Drugs,2021-02-04 22:44:21,2021-04-04 04:50:13
+1499,TITANIUM DIOXIDE,ALOE SUN BB,61.24,Violet,S,240,Stemonurus ammui (Kanehira) H.L. Sleumer,Drugs,2021-02-25 02:36:48,2021-09-04 07:36:16
+1500,GLYCERIN,BURZANGMURY GOLD TREATMENT,189.43,Pink,XS,246,Mandragora officinarum L.,Drugs,2020-11-30 23:15:30,2021-07-31 20:25:32
