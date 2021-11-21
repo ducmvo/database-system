@@ -1,3 +1,6 @@
+-- @author Duc Vo
+-- Nov 9 2021
+
 use sakila;
 
 -- Normal Join  Query #1  (MY PREFERENCE)
